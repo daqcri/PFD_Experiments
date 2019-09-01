@@ -19,6 +19,6 @@ We propose a novel class of ICs, called pattern functional dependencies (PFDs), 
 
 ## How to run the code?
 
-#### Download both data and src folders and put them in the same folder in your machine. Open a terminal and cd to the "src" folder. On the terminal type "$ jupyter-notebook pfd.ipynb". Initially, you will the results that were obtained when I run the code. 
+Download both data and src folders and put them in the same folder in your machine. Open a terminal and cd to the "src" folder. On the terminal type "$ jupyter-notebook pfd.ipynb". Initially, you will the results that were obtained when I run the code. 
 
-### The presented experiment 1 correspond to the CFD vs PFD Discovery in Section 5.1 in the paper and experiment 2 correspond to the PFD Validation experiment in Section 5.2. Also, experiment 1 in pfd.ipynb reports the run time for processing the data sets which correspond to the experiment in Section 5.4.
+The presented experiment 1 correspond to the CFD vs PFD Discovery in Section 5.1 in the paper and experiment 2 correspond to the PFD Validation experiment in Section 5.2. Also, experiment 1 in pfd.ipynb reports the run time for processing the data sets which correspond to the experiment in Section 5.4.
