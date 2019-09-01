@@ -1,0 +1,21 @@
+Coverage =  0.21678321678321677)
+('class::2', 'HDAC class I::0')(Records affected = 6)
+======================================================
+('P450::2', 'CYP_::0')(Records affected = 78)
+======================================================
+('hormone receptor subfamily 2 group::2', 'NR2::0')(Records affected = 16)
+======================================================
+('hormone receptor subfamily 3 group::2', 'NR3::0')(Records affected = 12)
+======================================================
+('hormone receptor subfamily 1 group::2', 'NR1::0')(Records affected = 25)
+======================================================
+('acetylcholine receptor::2', 'CHRN ::0')(Records affected = 6)
+======================================================
+('junction protein::2', 'GAP::0')(Records affected = 6)
+======================================================
+('family of::2', 'SLC::0')(Records affected = 37)
+======================================================
+('family of sodium::2', 'SLC::0')(Records affected = 9)
+======================================================
+('P450 family::2', 'CYP_::0')(Records affected = 35)
+======================================================

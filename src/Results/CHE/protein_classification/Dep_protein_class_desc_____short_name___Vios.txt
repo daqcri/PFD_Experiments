@@ -1,0 +1,5 @@
+ion channel  other  gap  pannexin  |=  PANNEXIN
+enzyme  cytochrome p450  |=  Cytochrome P450
+enzyme  phosphodiesterase  |=  Phosphodiesterase
+enzyme  cytochrome p450  cyp_3  |=  CYP_3
+ion channel  lgic  ach  |=  ACH

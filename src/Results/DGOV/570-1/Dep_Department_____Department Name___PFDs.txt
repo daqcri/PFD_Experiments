@@ -1,0 +1,65 @@
+Coverage =  0.9976925612570047)
+('POL::0', 'Department of Police::0')(Records affected = 1835)
+======================================================
+('HHS::0', 'Department of Health and Human Services::0')(Records affected = 1512)
+======================================================
+('COR::0', 'Correction and Rehabilitation::0')(Records affected = 494)
+======================================================
+('HCA::0', 'Department of Housing and Community Affairs::0')(Records affected = 75)
+======================================================
+('DGS::0', 'Department of General Services::0')(Records affected = 400)
+======================================================
+('DOT::0', 'Department of Transportation::0')(Records affected = 1199)
+======================================================
+('DTS::0', 'Department of Technology Services::0')(Records affected = 137)
+======================================================
+('LIB::0', 'Department of Public Libraries::0')(Records affected = 385)
+======================================================
+('FIN::0', 'Department of Finance::0')(Records affected = 111)
+======================================================
+('CCL::0', 'County Council::0')(Records affected = 91)
+======================================================
+('DLC::0', 'Department of Liquor Control::0')(Records affected = 414)
+======================================================
+('CEC::0', 'Community Engagement Cluster::0')(Records affected = 67)
+======================================================
+('FRS::0', 'Fire and Rescue Services::0')(Records affected = 1281)
+======================================================
+('SHF::0', "Sheriff's Office::0")(Records affected = 170)
+======================================================
+('DPS::0', 'Department of Permitting Services::0')(Records affected = 195)
+======================================================
+('CEX::0', 'Offices of the County Executive::0')(Records affected = 38)
+======================================================
+('HRC::0', 'Office of Human Rights::0')(Records affected = 8)
+======================================================
+('REC::0', 'Department of Recreation::0')(Records affected = 126)
+======================================================
+('DEP::0', 'Department of Environmental Protection::0')(Records affected = 156)
+======================================================
+('OHR::0', 'Office of Human Resources::0')(Records affected = 64)
+======================================================
+('OAG::0', 'Office of Agriculture::0')(Records affected = 11)
+======================================================
+('OMB::0', 'Office of Management and Budget::0')(Records affected = 30)
+======================================================
+('CAT::0', "County Attorney's Office::0")(Records affected = 73)
+======================================================
+('CUS::0', 'Community Use of Public Facilities::0')(Records affected = 28)
+======================================================
+('OCP::0', 'Office of Consumer Protection::0')(Records affected = 16)
+======================================================
+('PRO::0', 'Office of Procurement::0')(Records affected = 32)
+======================================================
+('PIO::0', 'Office of Public Information::0')(Records affected = 58)
+======================================================
+('DED::0', 'Department of Economic Development::0')(Records affected = 14)
+======================================================
+('DHS::0', 'Office of Emergency Management and Homeland Security::0')(Records affected = 10)
+======================================================
+('OLO::0', 'Office of Legislative Oversight::0')(Records affected = 11)
+======================================================
+('BOE::0', 'Board of Elections::0')(Records affected = 26)
+======================================================
+('NDA::0', 'Non-Departmental Account::0')(Records affected = 13)
+======================================================

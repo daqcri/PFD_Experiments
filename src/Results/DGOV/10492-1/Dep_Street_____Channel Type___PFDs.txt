@@ -1,0 +1,65 @@
+Coverage =  0.2488393686165274)
+('COLESVILLE ROAD::2', 'On::0')(Records affected = 16)
+======================================================
+('CROWN PARK::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('RIVER ROAD::2', 'On::0')(Records affected = 10)
+======================================================
+('BETHESDA::2', 'On::0')(Records affected = 18)
+======================================================
+('DARNESTOWN ROAD::2', 'On::0')(Records affected = 10)
+======================================================
+('TUCKERMAN LANE::2', 'On::0')(Records affected = 8)
+======================================================
+('SHADY GROVE ROAD::2', 'On Premise::0')(Records affected = 11)
+======================================================
+('FENTON STREET::2', 'On::0')(Records affected = 12)
+======================================================
+('CENTURY BLVD::2', 'On Premise::0')(Records affected = 8)
+======================================================
+('GIBBS STREET::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('FALLS::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('ENNALLS AVE::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('OLNEY SANDY SPRING ROAD::2', 'On::0')(Records affected = 7)
+======================================================
+('WOODMONT AVE::2', 'On::0')(Records affected = 14)
+======================================================
+('CORDELL AVENUE::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('NORFOLK::2', 'On Premise::0')(Records affected = 11)
+======================================================
+('GRANDVIEW AVE::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('ELLSWORTH DRIVE::2', 'On Premise::0')(Records affected = 14)
+======================================================
+('SLIGO::2', 'On::0')(Records affected = 8)
+======================================================
+('TRAVILLE GATEWAY::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('DEMOCRACY BOULEVARD::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('UNIVERSITY BLVD, WEST::2', 'On::0')(Records affected = 9)
+======================================================
+('MUDDY BRANCH ROAD::2', 'On::0')(Records affected = 10)
+======================================================
+('BETHESDA AVE::2', 'On::0')(Records affected = 8)
+======================================================
+('NORFOLK AVE::2', 'On Premise::0')(Records affected = 8)
+======================================================
+('LAYHILL ROAD::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('MAIN STREET::2', 'On::0')(Records affected = 7)
+======================================================
+('WISCONSIN AVENUE::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('GEORGIA AVENUE::2', 'On::0')(Records affected = 13)
+======================================================
+('NORTH FREDERICK AVE::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('E.::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('KENTLANDS BLVD::2', 'On::0')(Records affected = 6)
+======================================================

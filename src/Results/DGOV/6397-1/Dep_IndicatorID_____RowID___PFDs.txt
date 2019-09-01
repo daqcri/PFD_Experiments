@@ -1,0 +1,3 @@
+Coverage =  1.0)
+('RowID:(\\A*IndicatorID\\A*)', 'IndicatorID')(Records affected = 6704)
+======================================================

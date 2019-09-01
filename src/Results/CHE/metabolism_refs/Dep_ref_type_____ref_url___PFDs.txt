@@ -1,0 +1,13 @@
+Coverage =  0.9983395599833956)
+('OTHER::0', 'http://www.accessdata.fda.gov/drugsatfda_docs/nda/::0')(Records affected = 115)
+======================================================
+('PMID::0', 'http://europepmc.org/abstract/MED/::0')(Records affected = 1168)
+======================================================
+('FDA::0', 'http://www.accessdata.fda.gov/drugsatfda_docs/label/::0')(Records affected = 413)
+======================================================
+('ISBN::0', 'http://www.isbnsearch.org/isbn/::0')(Records affected = 610)
+======================================================
+('DAILYMED::0', 'http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=::0')(Records affected = 34)
+======================================================
+('DOI::0', 'http://doi.org/::0')(Records affected = 65)
+======================================================

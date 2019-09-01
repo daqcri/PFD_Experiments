@@ -1,0 +1,55 @@
+Coverage =  0.289044289044289)
+('CYP_::0', 'enzyme  cytochrome p450::0')(Records affected = 77)
+======================================================
+('Reg::0', 'enzyme::0')(Records affected = 6)
+======================================================
+('PDE_1::0', 'enzyme  phosphodiesterase::0')(Records affected = 8)
+======================================================
+('PDE_6::0', 'enzyme  phosphodiesterase  pde_6::0')(Records affected = 7)
+======================================================
+('CYP_1::0', 'enzyme  cytochrome p450::0')(Records affected = 18)
+======================================================
+('CYP_2::0', 'enzyme  cytochrome p450::0')(Records affected = 32)
+======================================================
+('CYP_2C::0', 'enzyme  cytochrome p450  cyp_2  cyp_2c::0')(Records affected = 7)
+======================================================
+('CYP_2D::0', 'enzyme  cytochrome p450  cyp_2  cyp_2d::0')(Records affected = 6)
+======================================================
+('CYP_3::0', 'enzyme  cytochrome p450  cyp_3  cyp_3a::0')(Records affected = 6)
+======================================================
+('CYP_4::0', 'enzyme  cytochrome p450  cyp_4::0')(Records affected = 8)
+======================================================
+('CYP_5::0', 'enzyme  cytochrome p450::0')(Records affected = 6)
+======================================================
+('NR2::0', 'transcription factor  nuclear receptor  nr2::0')(Records affected = 17)
+======================================================
+('CYP_11::0', 'enzyme  cytochrome p450  cyp_11::0')(Records affected = 6)
+======================================================
+('Cdk::0', 'enzyme  kinase  protein kinase  cmgc  cdk::0')(Records affected = 8)
+======================================================
+('Ste::0', 'enzyme  kinase  protein kinase  ste::0')(Records affected = 6)
+======================================================
+('NR3::0', 'transcription factor  nuclear receptor  nr3::0')(Records affected = 13)
+======================================================
+('NR1::0', 'transcription factor  nuclear receptor  nr1::0')(Records affected = 26)
+======================================================
+('CHR::0', 'ion channel  lgic  ach  chrn::0')(Records affected = 6)
+======================================================
+('Neuro::0', 'membrane receptor  7tm1  peptide  short peptide::0')(Records affected = 7)
+======================================================
+('GAP::0', 'ion channel  other  gap::0')(Records affected = 6)
+======================================================
+('SLC::0', 'transporter  electrochemical  slc::0')(Records affected = 55)
+======================================================
+('SLC0::0', 'transporter  electrochemical  slc::0')(Records affected = 10)
+======================================================
+('SLC1::0', 'transporter  electrochemical  slc::0')(Records affected = 10)
+======================================================
+('SLC2::0', 'transporter  electrochemical  slc::0')(Records affected = 11)
+======================================================
+('SLC3::0', 'transporter  electrochemical  slc::0')(Records affected = 10)
+======================================================
+('SLC4::0', 'transporter  electrochemical  slc::0')(Records affected = 10)
+======================================================
+('HDAC::0', 'epigenetic regulator  eraser  hdac::0')(Records affected = 6)
+======================================================

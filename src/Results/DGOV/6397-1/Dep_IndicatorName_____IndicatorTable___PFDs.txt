@@ -1,0 +1,185 @@
+Coverage =  0.801461813842482)
+('Estimate; Female: - 20 to 24 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 20 to 24 years: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Female: - 16 to 19 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 20 to 24 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Female: - 20 to 24 years: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 25 to 54 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Female: - 16 to 19 years: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 55 to 64 years: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 25 to 54 years: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 16 to 19 years: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Female: - 55 to 64 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Workforce participation rate (Female, White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 84)
+======================================================
+('Workforce participation rate (Male, White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 84)
+======================================================
+('Estimate; Female: - 25 to 54 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 55 to 64 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Female: - 25 to 54 years: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 16 to 19 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Female: - 55 to 64 years: (White alone, not Hispanic or Latino)::0', 'B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0')(Records affected = 51)
+======================================================
+('Estimate; Female: - 30 to 34 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 30 to 34 years: - In labor force: (Al::0', 'B23001: Sex by age by employment status::0')(Records affected = 55)
+======================================================
+('Estimate; Female: - 55 to 59 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 35 to 44 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 20 to 24 years: (Black or African A::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 25 to 54 years: - In labor force: (Bl::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Female: - 62 to 64 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 60 and 61 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 45 to 54 years: - In labor force: (::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 16 to 19 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 16 to 19 years: (Black or African A::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Female: - 45 to 54 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 20 to 24 years: (Black or African Ame::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 20 to 24 years: - In labor force: (Bl::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 55 to 64 years: (Black or African Ame::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 25 to 54 years: (Black or African Ame::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 16 to 19 years: (Black or African Ame::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Workforce participation rate (Female, Black or African American Alone)::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 88)
+======================================================
+('Workforce participation rate (Male, Black or African American Alone)::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 55 to 64 years: - In labor force: (Bl::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Female: - 25 to 54 years: (Black or African A::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 16 to 19 years: - In labor force: (Bl::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Female: - 55 to 64 years: (Black or African A::0', 'B23002B: Sex by age by employment status (Black or African American alone)::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 55 to 59 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 16 to 19 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 22 to 24 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 16 to 19 years: - In labor force: (Al::0', 'B23001: Sex by age by employment status::0')(Records affected = 55)
+======================================================
+('Estimate; Female: - 22 to 24 years: - In labor force: (::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 20 and 21 years: - In labor force: (A::0', 'B23001: Sex by age by employment status::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 20 and 21 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 25 to 29 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 25 to 29 years: - In labor force: (Al::0', 'B23001: Sex by age by employment status::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 22 to 24 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 30 to 34 years: - In labor force: (::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 62 to 64 years: - In labor force: (::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 35 to 44 years: - In labor force: (::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 55 to 59 years: - In labor force: (Al::0', 'B23001: Sex by age by employment status::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 62 to 64 years: - In labor force: (Al::0', 'B23001: Sex by age by employment status::0')(Records affected = 55)
+======================================================
+('Estimate; Female: - 35 to 44 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Workforce participation rate (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 60 and 61 years: - In labor force:::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 25 to 29 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 62 to 64 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 35 to 44 years: - In labor force: (Al::0', 'B23001: Sex by age by employment status::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 45 to 54 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 55 to 59 years: - In labor force: (::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 25 to 29 years: - In labor force: (::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 45 to 54 years: - In labor force: (Al::0', 'B23001: Sex by age by employment status::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 60 and 61 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 30 to 34 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 22 to 24 years: - In labor force: (Al::0', 'B23001: Sex by age by employment status::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 60 and 61 years: - In labor force: (A::0', 'B23001: Sex by age by employment status::0')(Records affected = 55)
+======================================================
+('Estimate; Female: - 20 and 21 years: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Female: - 20 and 21 years: - In labor force:::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 45 to 54 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 22 to 24 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 25 to 29 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 60 and 61 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 62 to 64 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 35 to 44 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 25 to 29 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 16 to 19 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 30 to 34 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 22 to 24 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 62 to 64 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 60 and 61 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 20 and 21 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 45 to 54 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 30 to 34 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 20 and 21 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 55 to 59 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 16 to 19 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 55 to 59 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 35 to 44 years: - In labor force: (All)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================

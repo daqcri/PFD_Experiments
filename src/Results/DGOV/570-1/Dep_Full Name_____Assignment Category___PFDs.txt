@@ -1,0 +1,603 @@
+Coverage =  0.3754532468959455)
+(', David J.::1', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+(', Sherry::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Gregory::1', 'Fulltime-Regular::0')(Records affected = 49)
+======================================================
+(', William::1', 'Fulltime-Regular::0')(Records affected = 104)
+======================================================
+(', Calvin::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Brian::1', 'Fulltime-Regular::0')(Records affected = 68)
+======================================================
+(', Michael E.::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', Anthony J.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Bruce::1', 'Fulltime-Regular::0')(Records affected = 15)
+======================================================
+(', Christopher J.::1', 'Fulltime-Regular::0')(Records affected = 16)
+======================================================
+(', Daniel J.::1', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+(', Derrick::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Matthew::1', 'Fulltime-Regular::0')(Records affected = 65)
+======================================================
+(', Steven::1', 'Fulltime-Regular::0')(Records affected = 42)
+======================================================
+(', Emmanuel::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Luis::1', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+(', Mohamed::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Andrew::1', 'Fulltime-Regular::0')(Records affected = 48)
+======================================================
+(', Samuel::1', 'Fulltime-Regular::0')(Records affected = 19)
+======================================================
+(', Alex::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Gabriel::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Thomas E.::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Travis::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Ellen::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Ronald::1', 'Fulltime-Regular::0')(Records affected = 21)
+======================================================
+(', Tyrone::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Jorge::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Michael A.::1', 'Fulltime-Regular::0')(Records affected = 30)
+======================================================
+(', Brian D.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Chad::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', David M.::1', 'Fulltime-Regular::0')(Records affected = 14)
+======================================================
+(', Elizabeth M.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Jason M.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', John T.::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Kevin::1', 'Fulltime-Regular::0')(Records affected = 60)
+======================================================
+(', Kim::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Tiffany::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Wesley::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Joshua::1', 'Fulltime-Regular::0')(Records affected = 26)
+======================================================
+(', Dennis::1', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+(', John B.::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Michael S.::1', 'Fulltime-Regular::0')(Records affected = 14)
+======================================================
+(', Ralph::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Philip::1', 'Fulltime-Regular::0')(Records affected = 19)
+======================================================
+(', Barry::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Dana::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', Glenn::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Mario::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Adam::1', 'Fulltime-Regular::0')(Records affected = 21)
+======================================================
+(', Albert::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Frances::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Francis::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Jeffery::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Rosa::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', David A.::1', 'Fulltime-Regular::0')(Records affected = 20)
+======================================================
+(', David C.::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', David E.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', James D.::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Marvin::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Mary C.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Maurice::1', 'Fulltime-Regular::0')(Records affected = 14)
+======================================================
+(', Peter::1', 'Fulltime-Regular::0')(Records affected = 36)
+======================================================
+(', Scott::1', 'Fulltime-Regular::0')(Records affected = 44)
+======================================================
+(', Stephen::1', 'Fulltime-Regular::0')(Records affected = 39)
+======================================================
+(', Dale::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Jonathan::1', 'Fulltime-Regular::0')(Records affected = 24)
+======================================================
+(', Robert F.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Kristina::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Charles A.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Alexander::1', 'Fulltime-Regular::0')(Records affected = 16)
+======================================================
+(', Paul::1', 'Fulltime-Regular::0')(Records affected = 42)
+======================================================
+(', Todd::1', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+(', Jose M.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Tony::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Bernard::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', James J.::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Richard L.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Douglas::1', 'Fulltime-Regular::0')(Records affected = 30)
+======================================================
+(', Joseph E.::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Mark L.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', John C.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Curtis::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Thomas J.::1', 'Fulltime-Regular::0')(Records affected = 15)
+======================================================
+(', Anita::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Bryan::1', 'Fulltime-Regular::0')(Records affected = 16)
+======================================================
+(', Brandon::1', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+(', Rachel::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Adrian::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Howard::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Robert L.::1', 'Fulltime-Regular::0')(Records affected = 16)
+======================================================
+(', Christian::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Michael W.::1', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+(', Michael F.::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', David L.::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Cesar::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Tara::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Nicholas::1', 'Fulltime-Regular::0')(Records affected = 28)
+======================================================
+(', James L.::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Richard E.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Melvin::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Gary::1', 'Fulltime-Regular::0')(Records affected = 36)
+======================================================
+(', Pedro::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', David W.::1', 'Fulltime-Regular::0')(Records affected = 17)
+======================================================
+(', John W.::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', James E.::1', 'Fulltime-Regular::0')(Records affected = 16)
+======================================================
+(', Aaron::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Kyle::1', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+(', Corey::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Jason A.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Phillip::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Sarah::1', 'Fulltime-Regular::0')(Records affected = 20)
+======================================================
+(', Melanie::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Michelle::1', 'Fulltime-Regular::0')(Records affected = 21)
+======================================================
+(', Rodney::1', 'Fulltime-Regular::0')(Records affected = 17)
+======================================================
+(', Jose A.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Edwin::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Michael T.::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', James M.::1', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+(', Jeffrey A.::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', Lauren::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Alan::1', 'Fulltime-Regular::0')(Records affected = 15)
+======================================================
+(', James H.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Robert S.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Cynthia L.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Jerry::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Crystal::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Janice::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Bradley::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', James T.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Alicia::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', David R.::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Mark A.::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', Patrick::1', 'Fulltime-Regular::0')(Records affected = 35)
+======================================================
+(', Suzanne::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Eric::1', 'Fulltime-Regular::0')(Records affected = 44)
+======================================================
+(', Kathryn::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Stephen M.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Deborah J.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Joanne::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Kevin J.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Frank::1', 'Fulltime-Regular::0')(Records affected = 21)
+======================================================
+(', Lee::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Carla::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', William L.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Oscar::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Joseph A.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Robert A.::1', 'Fulltime-Regular::0')(Records affected = 17)
+======================================================
+(', Veronica::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Scott D.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Claudia::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Darryl::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Michael C.::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Raymond::1', 'Fulltime-Regular::0')(Records affected = 20)
+======================================================
+(', John P.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Carlos::1', 'Fulltime-Regular::0')(Records affected = 20)
+======================================================
+(', Roger::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Sheila::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Thomas A.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Tanya::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Nathan::1', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+(', Ernest::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Donald::1', 'Fulltime-Regular::0')(Records affected = 31)
+======================================================
+(', Richard A.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Robert J.::1', 'Fulltime-Regular::0')(Records affected = 17)
+======================================================
+(', Christopher M.::1', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+(', Mark E.::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Robin::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Geoffrey::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Russell::1', 'Fulltime-Regular::0')(Records affected = 14)
+======================================================
+(', John H.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Robert M.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Charles C.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Keith::1', 'Fulltime-Regular::0')(Records affected = 19)
+======================================================
+(', John J.::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Andrew D.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Gloria::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Catherine::1', 'Fulltime-Regular::0')(Records affected = 19)
+======================================================
+(', Tammy::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Esther::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Lynn::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Michael J.::1', 'Fulltime-Regular::0')(Records affected = 41)
+======================================================
+(', Jack::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Sean::1', 'Fulltime-Regular::0')(Records affected = 34)
+======================================================
+(', Shawn::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', Troy::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', Ashley::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Michael D.::1', 'Fulltime-Regular::0')(Records affected = 15)
+======================================================
+(', Benjamin::1', 'Fulltime-Regular::0')(Records affected = 17)
+======================================================
+(', Arthur::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', William F.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Monica::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Scott A.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Christopher T.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', James W.::1', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+(', Jeffrey D.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Jeremy::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', Joseph L.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Marilyn::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Robert W.::1', 'Fulltime-Regular::0')(Records affected = 16)
+======================================================
+(', Tracy::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Ivan::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Jeffrey E.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Nathaniel::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Sean P.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Gregory M.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Stephanie::1', 'Fulltime-Regular::0')(Records affected = 17)
+======================================================
+(', William P.::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Edward J.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Michael P.::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', John R.::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Thomas M.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', William J.::1', 'Fulltime-Regular::0')(Records affected = 19)
+======================================================
+(', Ricardo::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Joseph M.::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Jacob::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Zachary::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Raul::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Lawrence::1', 'Fulltime-Regular::0')(Records affected = 15)
+======================================================
+(', Manuel::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Julio::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Derek::1', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+(', Joseph R.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', James A.::1', 'Fulltime-Regular::0')(Records affected = 22)
+======================================================
+(', Shelley::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', William C.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Daniel C.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Matthew J.::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Timothy E.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Craig::1', 'Fulltime-Regular::0')(Records affected = 17)
+======================================================
+(', Brett::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Eric D.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Jerome::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Christopher A.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Robert E.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Juan::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', John A.::1', 'Fulltime-Regular::0')(Records affected = 15)
+======================================================
+(', Andrea::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', John M.::1', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+(', William D.::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Vincent::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Jimmy::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Tamara::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Christopher R.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Victor::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Amanda::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Elizabeth A.::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Warren::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Thomas L.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', John D.::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Thomas C.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Walter::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Kevin A.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Kirk::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Valerie::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Antonio::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Peter J.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', James F.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Amy::1', 'Fulltime-Regular::0')(Records affected = 23)
+======================================================
+(', Shannon::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Christopher S.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Christopher B.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Kenneth E.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Eugene::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Michael R.::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Marc::1', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+(', Brent::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Willie::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Marcus::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', James R.::1', 'Fulltime-Regular::0')(Records affected = 15)
+======================================================
+(', Kevin M.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Reginald::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Jesse::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Carroll::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Matthew B.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Matthew A.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Robert D.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Samantha::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Brian M.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Harold::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', James C.::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', Patrick J.::1', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+(', Michael L.::1', 'Fulltime-Regular::0')(Records affected = 14)
+======================================================
+(', Matthew R.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Kevin P.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Patricia M.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', John E.::1', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+(', Michael G.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Lindsey::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Christopher L.::1', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+(', David S.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', William A.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', William M.::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Brian K.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Judy::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Rhonda::1', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+(', Jared::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Christopher W.::1', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+(', Jennifer A.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Beverly::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+(', Brian J.::1', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+("'Brien,::1", 'Fulltime-Regular::0')(Records affected = 7)
+======================================================

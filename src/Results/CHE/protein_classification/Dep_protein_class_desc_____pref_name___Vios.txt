@@ -1,0 +1,7 @@
+transcription factor  |=  Transcription factor
+ion channel  other  gap  pannexin  |=  Pannexin
+epigenetic regulator  eraser  hdac  |=  Histone deacetylase
+transcription factor  nuclear receptor  nr1  |=  Nuclear hormone receptor subfamily 1
+transcription factor  nuclear receptor  nr2  |=  Nuclear hormone receptor subfamily 2
+transcription factor  nuclear receptor  nr3  |=  Nuclear hormone receptor subfamily 3
+enzyme  kinase  protein kinase  tk  |=  TK protein kinase group

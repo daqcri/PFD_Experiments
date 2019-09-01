@@ -1,0 +1,39 @@
+Coverage =  0.44973079881331723)
+('COR::0', 'Fulltime-Regular::0')(Records affected = 494)
+======================================================
+('DGS::0', 'Fulltime-Regular::0')(Records affected = 400)
+======================================================
+('DOT::0', 'Fulltime-Regular::0')(Records affected = 1199)
+======================================================
+('FIN::0', 'Fulltime-Regular::0')(Records affected = 111)
+======================================================
+('FRS::0', 'Fulltime-Regular::0')(Records affected = 1281)
+======================================================
+('DPS::0', 'Fulltime-Regular::0')(Records affected = 195)
+======================================================
+('HRC::0', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+('DEP::0', 'Fulltime-Regular::0')(Records affected = 156)
+======================================================
+('OAG::0', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+('OMB::0', 'Fulltime-Regular::0')(Records affected = 30)
+======================================================
+('CUS::0', 'Fulltime-Regular::0')(Records affected = 28)
+======================================================
+('OCP::0', 'Fulltime-Regular::0')(Records affected = 16)
+======================================================
+('PRO::0', 'Fulltime-Regular::0')(Records affected = 32)
+======================================================
+('PIO::0', 'Fulltime-Regular::0')(Records affected = 58)
+======================================================
+('DED::0', 'Fulltime-Regular::0')(Records affected = 14)
+======================================================
+('DHS::0', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+('OLO::0', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+('BOE::0', 'Fulltime-Regular::0')(Records affected = 26)
+======================================================
+('NDA::0', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================

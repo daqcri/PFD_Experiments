@@ -1,0 +1,39 @@
+Coverage =  0.2097902097902098)
+('CYP_::0', 'Cytochrome P450::0')(Records affected = 77)
+======================================================
+('PDE_1::0', 'Phosphodiesterase::0')(Records affected = 8)
+======================================================
+('PDE_6::0', 'Phosphodiesterase::0')(Records affected = 7)
+======================================================
+('CYP_1::0', 'Cytochrome P450::0')(Records affected = 18)
+======================================================
+('CYP_2::0', 'Cytochrome P450::0')(Records affected = 32)
+======================================================
+('CYP_2C::0', 'Cytochrome P450::0')(Records affected = 7)
+======================================================
+('CYP_2D::0', 'Cytochrome P450::0')(Records affected = 6)
+======================================================
+('CYP_3::0', 'Cytochrome P450::0')(Records affected = 6)
+======================================================
+('CYP_4::0', 'Cytochrome P450::0')(Records affected = 8)
+======================================================
+('CYP_5::0', 'Cytochrome P450::0')(Records affected = 6)
+======================================================
+('NR2::0', 'Nuclear hormone receptor subfamily 2 group::0')(Records affected = 17)
+======================================================
+('CYP_11::0', 'Cytochrome P450::0')(Records affected = 6)
+======================================================
+('Cdk::0', 'CMGC protein kinase::0')(Records affected = 8)
+======================================================
+('Ste::0', 'STE protein kinase::0')(Records affected = 6)
+======================================================
+('NR3::0', 'Nuclear hormone receptor subfamily 3 group::0')(Records affected = 13)
+======================================================
+('NR1::0', 'Nuclear hormone receptor subfamily 1 group::0')(Records affected = 26)
+======================================================
+('CHR::0', 'Nicotinic acetylcholine receptor::0')(Records affected = 6)
+======================================================
+('GAP::0', 'Gap junction protein::0')(Records affected = 6)
+======================================================
+('HDAC::0', 'HDAC class::0')(Records affected = 6)
+======================================================

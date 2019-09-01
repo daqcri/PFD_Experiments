@@ -1,0 +1,61 @@
+Coverage =  0.20674224343675418)
+('HD01_VD120::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD32::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('HD01_VD141::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD38::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('HD01_VD155::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD148::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD135::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD134::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD92::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD106::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD107::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD121::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD156::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD128::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD53::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('HD01_VD67::0', 'B23001: Sex by age by employment status::0')(Records affected = 88)
+======================================================
+('HD01_VD127::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('Calculation: (HD01_VD04+HD01_VD11+HD01_VD18+HD01_VD25+HD01_VD32+HD01_VD39+HD01_VD46+HD01_VD53+HD01_VD60+HD01_VD67+HD01_VD93+HD01_VD100+HD01_VD107+HD01_VD114+HD01_VD121+HD01_VD128+HD01_VD135+HD01_VD142+HD01_VD149+HD01_VD156)/(HD01_VD03+HD01_VD10+HD01_VD17+HD01_VD24+HD01_VD31+HD01_VD38+HD01_VD45+HD01_VD52+HD01_VD59+HD01_VD66+ HD01_VD92+HD01_VD99+HD01_VD106+HD01_VD113+HD01_VD120+HD01_VD127+HD01_VD134+HD01_VD141+HD01_VD148+HD01_VD155::0', 'B23001: Sex by age by employment status::0')(Records affected = 22)
+======================================================
+('HD01_VD124::0', 'B23001: Sex by age by employment status::0')(Records affected = 66)
+======================================================
+('HD01_VD146::0', 'B23001: Sex by age by employment status::0')(Records affected = 66)
+======================================================
+('HD01_VD152::0', 'B23001: Sex by age by employment status::0')(Records affected = 66)
+======================================================
+('HD01_VD110::0', 'B23001: Sex by age by employment status::0')(Records affected = 66)
+======================================================
+('HD01_VD103::0', 'B23001: Sex by age by employment status::0')(Records affected = 66)
+======================================================
+('HD01_VD132::0', 'B23001: Sex by age by employment status::0')(Records affected = 66)
+======================================================
+('HD01_VD138::0', 'B23001: Sex by age by employment status::0')(Records affected = 66)
+======================================================
+('HD01_VD139::0', 'B23001: Sex by age by employment status::0')(Records affected = 66)
+======================================================
+('HD01_VD104::0', 'B23001: Sex by age by employment status::0')(Records affected = 66)
+======================================================
+('HD01_VD97::0', 'B23001: Sex by age by employment status::0')(Records affected = 66)
+======================================================
+('Calculation: (HD01_VD04+HD01_VD11+HD01_VD18+HD01_VD25+HD01_VD32+HD01_VD39+HD01_VD46+HD01_VD53+HD01_VD60+HD01_VD67+HD01_VD90+HD01_VD97+HD01_VD104+HD01_VD111+HD01_VD118+HD01_VD125+HD01_VD132+HD01_VD139+HD01_VD146+HD01_VD153)/(HD01_VD03+HD01_VD10+HD01_VD17+HD01_VD24+HD01_VD31+HD01_VD38+HD01_VD45+HD01_VD52+HD01_VD59+HD01_VD66+HD01_VD89+HD01_VD96+HD01_VD103+HD01_VD110+HD01_VD117+HD01_VD124+HD01_VD131+HD01_VD138+HD01_VD145+HD01_VD152)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================
+('Calculation: (HD01_VD04+HD01_VD11+HD01_VD18+HD01_VD25+HD01_VD32+HD01_VD39+HD01_VD46+HD01_VD53+HD01_VD60+HD01_VD67+HD01_VD90+HD01_VD97+HD01_VD104+HD01_VD111+HD01_VD118+HD01_VD125+HD01_VD132+HD01_VD139+HD01_VD146+HD01_VD153)/(HD01_VD03+HD01_VD10+HD01_VD17+HD01_VD24+HD01_VD31+HD01_VD38+HD01_VD45+HD01_VD52+HD01_VD59+HD01_VD66+ HD01_VD89+HD01_VD96+HD01_VD103+HD01_VD110+HD01_VD117+HD01_VD124+HD01_VD131+HD01_VD138+HD01_VD145+HD01_VD152)::0', 'B23001: Sex by age by employment status::0')(Records affected = 33)
+======================================================

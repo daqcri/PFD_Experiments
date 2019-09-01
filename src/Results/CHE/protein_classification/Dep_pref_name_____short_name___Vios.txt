@@ -1,0 +1,3 @@
+Protein class  |=  Protein class
+Cytochrome P450  |=  Cytochrome P450
+Nicotinic acetylcholine receptor  |=  ACH

@@ -1,0 +1,41 @@
+Coverage =  0.44995055488407865)
+('Correction and Rehabilitation::0', 'Fulltime-Regular::0')(Records affected = 494)
+======================================================
+('Department of General Services::0', 'Fulltime-Regular::0')(Records affected = 400)
+======================================================
+('Department of Transportation::0', 'Fulltime-Regular::0')(Records affected = 1199)
+======================================================
+('Department of Finance::0', 'Fulltime-Regular::0')(Records affected = 111)
+======================================================
+('Fire and Rescue Services::0', 'Fulltime-Regular::0')(Records affected = 1281)
+======================================================
+('Department of Permitting Services::0', 'Fulltime-Regular::0')(Records affected = 195)
+======================================================
+('Office of Human Rights::0', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+('Board of::0', 'Fulltime-Regular::0')(Records affected = 28)
+======================================================
+('Department of Environmental Protection::0', 'Fulltime-Regular::0')(Records affected = 156)
+======================================================
+('Office of Agriculture::0', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+('Office of Management and Budget::0', 'Fulltime-Regular::0')(Records affected = 30)
+======================================================
+('Community Use of Public Facilities::0', 'Fulltime-Regular::0')(Records affected = 28)
+======================================================
+('Office of Consumer Protection::0', 'Fulltime-Regular::0')(Records affected = 16)
+======================================================
+('Office of Procurement::0', 'Fulltime-Regular::0')(Records affected = 32)
+======================================================
+('Office of Public Information::0', 'Fulltime-Regular::0')(Records affected = 58)
+======================================================
+('Department of Economic Development::0', 'Fulltime-Regular::0')(Records affected = 14)
+======================================================
+('Office of Emergency Management and Homeland Security::0', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+('Office of Legislative Oversight::0', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+('Board of Elections::0', 'Fulltime-Regular::0')(Records affected = 26)
+======================================================
+('Non-Departmental Account::0', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================

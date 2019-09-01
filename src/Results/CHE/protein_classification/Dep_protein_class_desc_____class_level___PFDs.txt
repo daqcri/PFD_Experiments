@@ -1,0 +1,49 @@
+Coverage =  0.2529137529137529)
+('enzyme  protease  serine  sc::0', '5::0')(Records affected = 6)
+======================================================
+('enzyme  protease  metallo  mae::0', '5::0')(Records affected = 10)
+======================================================
+('enzyme  phosphodiesterase  pde_6::0', '4::0')(Records affected = 7)
+======================================================
+('membrane receptor  7tm2  peptide  glucagon-like::0', '5::0')(Records affected = 6)
+======================================================
+('enzyme  cytochrome p450  cyp_2  cyp_2c::0', '5::0')(Records affected = 7)
+======================================================
+('enzyme  cytochrome p450  cyp_2  cyp_2d::0', '5::0')(Records affected = 6)
+======================================================
+('enzyme  kinase  protein kinase  agc  pkc::0', '6::0')(Records affected = 7)
+======================================================
+('enzyme  kinase  protein kinase  cmgc  cdk::0', '6::0')(Records affected = 12)
+======================================================
+('enzyme  kinase  protein kinase  cmgc  mapk::0', '6::0')(Records affected = 8)
+======================================================
+('enzyme  kinase  protein kinase  ste  ste20::0', '6::0')(Records affected = 11)
+======================================================
+('enzyme  kinase  protein kinase  tkl  mlk::0', '6::0')(Records affected = 6)
+======================================================
+('membrane receptor  7tm1  peptide  short peptide::0', '5::0')(Records affected = 24)
+======================================================
+('enzyme  kinase  protein kinase  camk  camkl::0', '6::0')(Records affected = 11)
+======================================================
+('ion channel  lgic  ach::0', '4::0')(Records affected = 6)
+======================================================
+('membrane receptor  7tm1  smallmol  lipid-like ligand receptor::0', '5::0')(Records affected = 9)
+======================================================
+('transporter  ntpase  p-type atpase::0', '4::0')(Records affected = 7)
+======================================================
+('membrane receptor  7tm1  smallmol  monoamine receptor::0', '5::0')(Records affected = 7)
+======================================================
+('ion channel  other  misc::0', '4::0')(Records affected = 22)
+======================================================
+('ion channel  other  chloride::0', '4::0')(Records affected = 6)
+======================================================
+('ion channel  other  gap::0', '4::0')(Records affected = 7)
+======================================================
+('transporter  ntpase  atp binding cassette::0', '4::0')(Records affected = 8)
+======================================================
+('auxiliary transport protein::0', '2::0')(Records affected = 12)
+======================================================
+('epigenetic regulator  eraser  hdac::0', '4::0')(Records affected = 6)
+======================================================
+('epigenetic regulator  reader  methyl-lysine::0', '4::0')(Records affected = 6)
+======================================================

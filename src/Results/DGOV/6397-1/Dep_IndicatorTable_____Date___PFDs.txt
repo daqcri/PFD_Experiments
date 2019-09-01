@@ -1,0 +1,7 @@
+Coverage =  1.0)
+('B23002H: Sex by age by employment status (White alone, not Hispanic or Latino)::0', '12:00:00 AM::6')(Records affected = 1512)
+======================================================
+('B23001: Sex by age by employment status::0', '12:00:00 AM::6')(Records affected = 3608)
+======================================================
+('B23002B: Sex by age by employment status (Black or African American alone)::0', '12:00:00 AM::6')(Records affected = 1584)
+======================================================

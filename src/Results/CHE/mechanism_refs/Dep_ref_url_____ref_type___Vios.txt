@@ -1,0 +1,3 @@
+http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2168  |=  IUPHAR
+http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/206488lbl.pdf  |=  Other
+https://en.wikipedia.org/wiki/Zonampanel  |=  Other

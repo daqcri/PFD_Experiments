@@ -1,0 +1,3 @@
+Coverage =  1.0)
+('RowID:(Location\\A*)', 'Location')(Records affected = 6704)
+======================================================

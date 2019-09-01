@@ -1,0 +1,91 @@
+Coverage =  0.5420644391408115)
+('HD01_VD10::0', 'Estimate; Male: - 20::0')(Records affected = 260)
+======================================================
+('HD01_VD51::0', 'Estimate; Female: - 20 to 24 years: (::0')(Records affected = 42)
+======================================================
+('HD01_VD44::0', 'Estimate; Female: - 16 to 19 years: (::0')(Records affected = 42)
+======================================================
+('HD01_VD24::0', 'Estimate; Male: -::0')(Records affected = 260)
+======================================================
+('HD01_VD17::0', 'Estimate; Male: -::0')(Records affected = 260)
+======================================================
+('HD01_VD03::0', 'Estimate; Male: - 16 to 19 years: (::0')(Records affected = 260)
+======================================================
+('Calculation: (HD01_VD45+HD01_VD52+HD01_VD59+HD01_VD66)/(HD01_VD44+HD01_VD51+HD01_VD58+HD01_VD65)::0', 'Workforce participation rate (Female,::0')(Records affected = 42)
+======================================================
+('Calculation: (HD01_VD04+HD01_VD11+HD01_VD18+HD01_VD25)/(HD01_VD03+HD01_VD10+HD01_VD17+HD01_VD24)::0', 'Workforce participation rate (Male,::0')(Records affected = 172)
+======================================================
+('HD01_VD120::0', 'Estimate; Female: - 30 to 34 years: (All)::0')(Records affected = 22)
+======================================================
+('HD01_VD32::0', 'Estimate; Male: - 30 to 34 years: - In labor force: (::0')(Records affected = 88)
+======================================================
+('HD01_VD141::0', 'Estimate; Female: - 55 to 59 years: (All)::0')(Records affected = 22)
+======================================================
+('HD01_VD38::0', 'Estimate; Male: - 35 to 44 years: (All)::0')(Records affected = 88)
+======================================================
+('HD01_VD63::0', 'Estimate; Female: - 55 to 64 years: (::0')(Records affected = 130)
+======================================================
+('HD01_VD64::0', 'Estimate; Female: - 55 to 64 years: - In labor force: (::0')(Records affected = 130)
+======================================================
+('HD01_VD49::0', 'Estimate; Female: - 20 to 24 years: (::0')(Records affected = 130)
+======================================================
+('HD01_VD50::0', 'Estimate; Female: - 20 to 24 years: - In labor force: (::0')(Records affected = 130)
+======================================================
+('HD01_VD57::0', 'Estimate; Female: - 25 to 54 years: - In labor force: (::0')(Records affected = 130)
+======================================================
+('HD01_VD42::0', 'Estimate; Female: - 16 to 19 years: (::0')(Records affected = 130)
+======================================================
+('Calculation: (HD01_VD43+HD01_VD50+HD01_VD57+HD01_VD64)/(HD01_VD42+HD01_VD49+HD01_VD56+HD01_VD63)::0', 'Workforce participation rate (Female,::0')(Records affected = 130)
+======================================================
+('HD01_VD155::0', 'Estimate; Female: - 62 to 64 years: (All)::0')(Records affected = 22)
+======================================================
+('HD01_VD148::0', 'Estimate; Female: - 60 and 61 years: (All)::0')(Records affected = 22)
+======================================================
+('HD01_VD135::0', 'Estimate; Female: - 45 to 54 years: - In labor force: (::0')(Records affected = 22)
+======================================================
+('HD01_VD134::0', 'Estimate; Female: - 45 to 54 years: (All)::0')(Records affected = 22)
+======================================================
+('HD01_VD92::0', 'Estimate; Female: - 16 to 19 years: (All)::0')(Records affected = 22)
+======================================================
+('HD01_VD106::0', 'Estimate; Female: - 22 to 24 years: (All)::0')(Records affected = 22)
+======================================================
+('HD01_VD107::0', 'Estimate; Female: - 22 to 24 years: - In labor force: (::0')(Records affected = 22)
+======================================================
+('HD01_VD121::0', 'Estimate; Female: - 30 to 34 years: - In labor force: (::0')(Records affected = 22)
+======================================================
+('HD01_VD156::0', 'Estimate; Female: - 62 to 64 years: - In labor force: (::0')(Records affected = 22)
+======================================================
+('HD01_VD128::0', 'Estimate; Female: - 35 to 44 years: - In labor force: (::0')(Records affected = 22)
+======================================================
+('HD01_VD53::0', 'Estimate; Male: - 55 to 59 years: - In labor force: (::0')(Records affected = 88)
+======================================================
+('HD01_VD67::0', 'Estimate; Male: - 62 to 64 years: - In labor force: (::0')(Records affected = 88)
+======================================================
+('HD01_VD127::0', 'Estimate; Female: - 35 to 44 years: (All)::0')(Records affected = 22)
+======================================================
+('Calculation: (HD01_VD04+HD01_VD11+HD01_VD18+HD01_VD25+HD01_VD32+HD01_VD39+HD01_VD46+HD01_VD53+HD01_VD60+HD01_VD67+HD01_VD93+HD01_VD100+HD01_VD107+HD01_VD114+HD01_VD121+HD01_VD128+HD01_VD135+HD01_VD142+HD01_VD149+HD01_VD156)/(HD01_VD03+HD01_VD10+HD01_VD17+HD01_VD24+HD01_VD31+HD01_VD38+HD01_VD45+HD01_VD52+HD01_VD59+HD01_VD66+ HD01_VD92+HD01_VD99+HD01_VD106+HD01_VD113+HD01_VD120+HD01_VD127+HD01_VD134+HD01_VD141+HD01_VD148+HD01_VD155::0', 'Workforce participation rate (All)::0')(Records affected = 22)
+======================================================
+('HD01_VD124::0', 'Estimate; Female: - 35 to 44 years: (All)::0')(Records affected = 66)
+======================================================
+('HD01_VD146::0', 'Estimate; Female: - 60 and 61 years: - In labor force:::0')(Records affected = 66)
+======================================================
+('HD01_VD152::0', 'Estimate; Female: - 62 to 64 years: (All)::0')(Records affected = 66)
+======================================================
+('HD01_VD110::0', 'Estimate; Female: - 25 to 29 years: (All)::0')(Records affected = 66)
+======================================================
+('HD01_VD103::0', 'Estimate; Female: - 22 to 24 years: (All)::0')(Records affected = 66)
+======================================================
+('HD01_VD132::0', 'Estimate; Female: - 45 to 54 years: - In labor force: (::0')(Records affected = 66)
+======================================================
+('HD01_VD138::0', 'Estimate; Female: - 55 to 59 years: (All)::0')(Records affected = 66)
+======================================================
+('HD01_VD139::0', 'Estimate; Female: - 55 to 59 years: - In labor force: (::0')(Records affected = 66)
+======================================================
+('HD01_VD104::0', 'Estimate; Female: - 22 to 24 years: - In labor force: (::0')(Records affected = 66)
+======================================================
+('HD01_VD97::0', 'Estimate; Female: - 20 and 21 years: - In labor force:::0')(Records affected = 66)
+======================================================
+('Calculation: (HD01_VD04+HD01_VD11+HD01_VD18+HD01_VD25+HD01_VD32+HD01_VD39+HD01_VD46+HD01_VD53+HD01_VD60+HD01_VD67+HD01_VD90+HD01_VD97+HD01_VD104+HD01_VD111+HD01_VD118+HD01_VD125+HD01_VD132+HD01_VD139+HD01_VD146+HD01_VD153)/(HD01_VD03+HD01_VD10+HD01_VD17+HD01_VD24+HD01_VD31+HD01_VD38+HD01_VD45+HD01_VD52+HD01_VD59+HD01_VD66+HD01_VD89+HD01_VD96+HD01_VD103+HD01_VD110+HD01_VD117+HD01_VD124+HD01_VD131+HD01_VD138+HD01_VD145+HD01_VD152)::0', 'Workforce participation rate (All)::0')(Records affected = 33)
+======================================================
+('Calculation: (HD01_VD04+HD01_VD11+HD01_VD18+HD01_VD25+HD01_VD32+HD01_VD39+HD01_VD46+HD01_VD53+HD01_VD60+HD01_VD67+HD01_VD90+HD01_VD97+HD01_VD104+HD01_VD111+HD01_VD118+HD01_VD125+HD01_VD132+HD01_VD139+HD01_VD146+HD01_VD153)/(HD01_VD03+HD01_VD10+HD01_VD17+HD01_VD24+HD01_VD31+HD01_VD38+HD01_VD45+HD01_VD52+HD01_VD59+HD01_VD66+ HD01_VD89+HD01_VD96+HD01_VD103+HD01_VD110+HD01_VD117+HD01_VD124+HD01_VD131+HD01_VD138+HD01_VD145+HD01_VD152)::0', 'Workforce participation rate (All)::0')(Records affected = 33)
+======================================================

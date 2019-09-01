@@ -1,0 +1,61 @@
+Coverage =  0.9901960784313726)
+('Atlanta, GAMurder and nonnegligent::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Baton Rouge, LAMurder and nonnegligent::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Memphis, TNMurder and nonnegligent::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Miami, FLMurder and nonnegligent::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Nashville, TNMurder and nonnegligent::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('New Orleans, LAMurder and nonnegligent::0', '12:00:00 AM::6')(Records affected = 11)
+======================================================
+('Oklahoma City, OKMurder and nonnegligent::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Raleigh, NCMurder and nonnegligent::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Tampa, FLMurder and nonnegligent::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Benchmark AverageMurder and nonnegligent::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Atlanta, GAProperty crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Baton Rouge, LAProperty crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Memphis, TNProperty crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Miami, FLProperty crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Nashville, TNProperty crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('New Orleans, LAProperty crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 11)
+======================================================
+('Oklahoma City, OKProperty crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Raleigh, NCProperty crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Tampa, FLProperty crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Benchmark AverageProperty crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Atlanta, GAViolent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Baton Rouge, LAViolent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Memphis, TNViolent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Miami, FLViolent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Nashville, TNViolent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('New Orleans, LAViolent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 11)
+======================================================
+('Oklahoma City, OKViolent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Raleigh, NCViolent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Tampa, FLViolent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================
+('Benchmark AverageViolent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 10)
+======================================================

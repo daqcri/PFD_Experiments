@@ -1,0 +1,6 @@
+Steroid-like ligand receptor  |=  Steroid-like ligand receptor
+HDAC  |=  Histone deacetylase
+CHROMO  |=  Chromodomain
+NR1  |=  Nuclear hormone receptor subfamily 1
+NR2  |=  Nuclear hormone receptor subfamily 2
+NR3  |=  Nuclear hormone receptor subfamily 3

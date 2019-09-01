@@ -1,0 +1,39 @@
+Coverage =  0.12256267409470752)
+('VILLAGE::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('SPRING::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('THAI::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('MARKET::2', 'Off Premise::0')(Records affected = 7)
+======================================================
+('PIZZA::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('RESTAURANT::2', 'On::0')(Records affected = 37)
+======================================================
+('CO.::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('BEER & WINE,::2', 'Off Premise::0')(Records affected = 6)
+======================================================
+('RESTAURANT,::2', 'On Premise::0')(Records affected = 15)
+======================================================
+('BETHESDA::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('COUNTRY CLUB::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('RESTAURANT GROUP::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('ENTERPRISES, INC.::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('RESTAURANT, INC.::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('GRILL::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('MEXICAN GRILL::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('SILVER SPRING::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('NOODLE::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('HOSPITALITY::2', 'On::0')(Records affected = 7)
+======================================================

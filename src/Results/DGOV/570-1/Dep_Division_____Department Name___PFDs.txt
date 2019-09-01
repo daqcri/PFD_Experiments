@@ -1,0 +1,727 @@
+Coverage =  0.8829798923195253)
+('MSB Information Management and Technology Division Data Systems Section::0', 'Department of Police::0')(Records affected = 7)
+======================================================
+('ISB Major Crimes Division Fugitive Section::0', 'Department of Police::0')(Records affected = 9)
+======================================================
+('Adult Protective and Case Management Services::0', 'Department of Health and Human Services::0')(Records affected = 43)
+======================================================
+('PRRS Facility and Security::0', 'Correction and Rehabilitation::0')(Records affected = 29)
+======================================================
+('Single Family Housing Program::0', 'Department of Housing and Community Affairs::0')(Records affected = 8)
+======================================================
+('PSB 6th District::0', 'Department of Police::0')(Records affected = 128)
+======================================================
+('Head Start::0', 'Department of Health and Human Services::0')(Records affected = 10)
+======================================================
+('FSB Traffic Division Automated Traffic Enforcement Section::0', 'Department of Police::0')(Records affected = 29)
+======================================================
+('Facilities Maintenance::0', 'Department of General Services::0')(Records affected = 84)
+======================================================
+('Transit Silver Spring Ride On::0', 'Department of Transportation::0')(Records affected = 276)
+======================================================
+('STD and HIV Services::0', 'Department of Health and Human Services::0')(Records affected = 39)
+======================================================
+('Transit Nicholson Ride On::0', 'Department of Transportation::0')(Records affected = 136)
+======================================================
+('Transportation Management::0', 'Department of Transportation::0')(Records affected = 12)
+======================================================
+('EASD -::0', 'Department of Technology Services::0')(Records affected = 7)
+======================================================
+('Olney Library::0', 'Department of Public Libraries::0')(Records affected = 18)
+======================================================
+('Silver Spring Library::0', 'Department of Public Libraries::0')(Records affected = 23)
+======================================================
+('Transit Gaithersburg Ride On::0', 'Department of Transportation::0')(Records affected = 284)
+======================================================
+('FSB Traffic Division School Safety Section::0', 'Department of Police::0')(Records affected = 169)
+======================================================
+('Community Support Network for People with Disabilities::0', 'Department of Health and Human Services::0')(Records affected = 9)
+======================================================
+('Fleet Management Fleet Services::0', 'Department of General Services::0')(Records affected = 109)
+======================================================
+('Council Central Staff::0', 'County Council::0')(Records affected = 42)
+======================================================
+('Beer Delivery Operations::0', 'Department of Liquor Control::0')(Records affected = 63)
+======================================================
+('Medical Assistance Eligibility Services::0', 'Department of Health and Human Services::0')(Records affected = 69)
+======================================================
+('Kensington::0', 'Department of::0')(Records affected = 17)
+======================================================
+('ISB Criminal Investigations Division Financial Crimes Section::0', 'Department of Police::0')(Records affected = 13)
+======================================================
+('Community Partnerships::0', 'Community Engagement Cluster::0')(Records affected = 6)
+======================================================
+('ETSD Telephone Services::0', 'Department of Technology Services::0')(Records affected = 6)
+======================================================
+('Licensure, Regulation and Education::0', 'Department of Liquor Control::0')(Records affected = 15)
+======================================================
+('MSB Management and Budget Division::0', 'Department of Police::0')(Records affected = 26)
+======================================================
+('Station 16::0', 'Fire and Rescue Services::0')(Records affected = 36)
+======================================================
+('Courthouse Security::0', "Sheriff's Office::0")(Records affected = 10)
+======================================================
+('MSB Communications Division::0', 'Department of Police::0')(Records affected = 128)
+======================================================
+('Emergency Housing Assistance::0', 'Department of Health and Human Services::0')(Records affected = 33)
+======================================================
+('ETSD Radio Communications Services::0', 'Department of Technology Services::0')(Records affected = 7)
+======================================================
+('DS MCCF Unit 3 Security::0', 'Correction and Rehabilitation::0')(Records affected = 70)
+======================================================
+('Clarksburg Village::0', 'Department of Liquor Control::0')(Records affected = 7)
+======================================================
+('Flower Avenue::0', 'Department of Liquor Control::0')(Records affected = 8)
+======================================================
+('Income Supports::0', 'Department of Health and Human Services::0')(Records affected = 149)
+======================================================
+('Adult Protective Services - Nurse Assessment::0', 'Department of Health and Human Services::0')(Records affected = 18)
+======================================================
+('Goshen Crossing::0', 'Department of Liquor Control::0')(Records affected = 9)
+======================================================
+('Highway Administration::0', 'Department of Transportation::0')(Records affected = 20)
+======================================================
+('Permanent Supportive Housing::0', 'Department of Health and Human Services::0')(Records affected = 10)
+======================================================
+('Home Care Services::0', 'Department of Health and Human Services::0')(Records affected = 14)
+======================================================
+('Transportation Technical Center::0', 'Department of Transportation::0')(Records affected = 16)
+======================================================
+('Highway Services::0', 'Department of Transportation::0')(Records affected = 212)
+======================================================
+('Team 1 Residential Plan Review::0', 'Department of Permitting Services::0')(Records affected = 10)
+======================================================
+('PSB 4th District Patrol::0', 'Department of Police::0')(Records affected = 145)
+======================================================
+('Bethesda Library::0', 'Department of Public Libraries::0')(Records affected = 19)
+======================================================
+('DS Health Services::0', 'Correction and Rehabilitation::0')(Records affected = 32)
+======================================================
+("Chief Administrative Officer's Office::0", 'Offices of the County Executive::0')(Records affected = 24)
+======================================================
+('Area Health Centers::0', 'Department of Health and Human Services::0')(Records affected = 41)
+======================================================
+('PSB 3rd District Patrol::0', 'Department of Police::0')(Records affected = 158)
+======================================================
+('Child Welfare Services::0', 'Department of Health and Human Services::0')(Records affected = 184)
+======================================================
+('School Health Services::0', 'Department of Health and Human Services::0')(Records affected = 304)
+======================================================
+('Quality Control and Support::0', 'Department of General Services::0')(Records affected = 17)
+======================================================
+('DS MCDC Custody and Security::0', 'Correction and Rehabilitation::0')(Records affected = 81)
+======================================================
+('Potomac::0', 'Department of::0')(Records affected = 22)
+======================================================
+('FSB Animal Services Division::0', 'Department of Police::0')(Records affected = 57)
+======================================================
+('Walnut Hill::0', 'Department of Liquor Control::0')(Records affected = 10)
+======================================================
+('EASD Web and Mobile Applications::0', 'Department of Technology Services::0')(Records affected = 10)
+======================================================
+('Housing Code Enforcement::0', 'Department of Housing and Community Affairs::0')(Records affected = 28)
+======================================================
+('Station 12::0', 'Fire and Rescue Services::0')(Records affected = 33)
+======================================================
+('Parking Management Financial Management::0', 'Department of Transportation::0')(Records affected = 7)
+======================================================
+('Disease Control - Immunization::0', 'Department of Health and Human Services::0')(Records affected = 11)
+======================================================
+('Long Branch Library::0', 'Department of Public Libraries::0')(Records affected = 11)
+======================================================
+('Milestone::0', 'Department of Liquor Control::0')(Records affected = 8)
+======================================================
+('Countywide Programs Therapeutics::0', 'Department of Recreation::0')(Records affected = 8)
+======================================================
+('Damascus Library::0', 'Department of Public Libraries::0')(Records affected = 13)
+======================================================
+('Office of the Director::0', 'Department of Recreation::0')(Records affected = 6)
+======================================================
+('Seneca Meadows::0', 'Department of Liquor Control::0')(Records affected = 8)
+======================================================
+('Building Design and Construction::0', 'Department of General Services::0')(Records affected = 6)
+======================================================
+('Station 9::0', 'Fire and Rescue Services::0')(Records affected = 12)
+======================================================
+('Court and Transport::0', "Sheriff's Office::0")(Records affected = 52)
+======================================================
+('Station 35::0', 'Fire and Rescue Services::0')(Records affected = 36)
+======================================================
+('Project Management::0', 'Department of General Services::0')(Records affected = 13)
+======================================================
+('PSB 1st District Patrol::0', 'Department of Police::0')(Records affected = 96)
+======================================================
+('ISB Major Crimes Division Victim Witness Assistance Section::0', 'Department of Police::0')(Records affected = 6)
+======================================================
+('Director Management Services::0', 'Department of Transportation::0')(Records affected = 9)
+======================================================
+('Station 2::0', 'Fire and Rescue Services::0')(Records affected = 21)
+======================================================
+('Positive Youth Development::0', 'Department of Health and Human Services::0')(Records affected = 11)
+======================================================
+('Environmental Health and Regulatory Services::0', 'Department of Health and Human Services::0')(Records affected = 24)
+======================================================
+('Germantown Library::0', 'Department of Public Libraries::0')(Records affected = 24)
+======================================================
+('24 Hours Crisis Center::0', 'Department of Health and Human Services::0')(Records affected = 35)
+======================================================
+('Early Childhood Services::0', 'Department of Health and Human Services::0')(Records affected = 12)
+======================================================
+('ESOD::0', 'Department of Technology Services::0')(Records affected = 27)
+======================================================
+('Station 31::0', 'Fire and Rescue Services::0')(Records affected = 36)
+======================================================
+('PSB 5th District Patrol::0', 'Department of Police::0')(Records affected = 105)
+======================================================
+('Team 4 Commercial Electrical, Mechanical and Fire Protection Systems::0', 'Department of Permitting Services::0')(Records affected = 21)
+======================================================
+('ESOD Public Safety Data Support::0', 'Department of Technology Services::0')(Records affected = 8)
+======================================================
+('Rockville Library::0', 'Department of Public Libraries::0')(Records affected = 26)
+======================================================
+('Station 25::0', 'Fire and Rescue Services::0')(Records affected = 45)
+======================================================
+('Liquor and Wine Delivery Operations::0', 'Department of Liquor Control::0')(Records affected = 53)
+======================================================
+('Behavioral Health Planning and Management::0', 'Department of Health and Human Services::0')(Records affected = 14)
+======================================================
+('Field Services::0', 'Department of::0')(Records affected = 20)
+======================================================
+('Patrol Services Bureau::0', 'Department of Police::0')(Records affected = 14)
+======================================================
+('Station 15::0', 'Fire and Rescue Services::0')(Records affected = 29)
+======================================================
+('ADA::0', 'Department of General Services::0')(Records affected = 6)
+======================================================
+('Child and Adolescent Mental Health Clinic Services::0', 'Department of Health and Human Services::0')(Records affected = 19)
+======================================================
+('MSB Information Mgmt and Tech Division Warrant Control Section::0', 'Department of Police::0')(Records affected = 6)
+======================================================
+('PSB 4th District Special Assignment Team::0', 'Department of Police::0')(Records affected = 8)
+======================================================
+('Team 3 Commercial Building, Life Safety, Structural and Accessibility::0', 'Department of Permitting Services::0')(Records affected = 10)
+======================================================
+('Transportation Property Acquisition Section::0', 'Department of Transportation::0')(Records affected = 6)
+======================================================
+('Solid Waste Services Administration::0', 'Department of Environmental Protection::0')(Records affected = 16)
+======================================================
+('PSB 2nd District Patrol::0', 'Department of Police::0')(Records affected = 97)
+======================================================
+('Community Development Neighborhood Revitalization::0', 'Department of Housing and Community Affairs::0')(Records affected = 6)
+======================================================
+('FSB Security Services Division::0', 'Department of Police::0')(Records affected = 40)
+======================================================
+('MSB Personnel Division::0', 'Department of Police::0')(Records affected = 22)
+======================================================
+('Recruitment and Selection::0', 'Office of Human Resources::0')(Records affected = 11)
+======================================================
+('Silver Spring Urban District::0', 'Community Engagement Cluster::0')(Records affected = 31)
+======================================================
+('DS MCCF Unit 2 Security::0', 'Correction and Rehabilitation::0')(Records affected = 62)
+======================================================
+('Planning, Accountability and Customer Service::0', 'Department of Health and Human Services::0')(Records affected = 7)
+======================================================
+('Station 29::0', 'Fire and Rescue Services::0')(Records affected = 33)
+======================================================
+('Station 40::0', 'Fire and Rescue Services::0')(Records affected = 13)
+======================================================
+('Station 18::0', 'Fire and Rescue Services::0')(Records affected = 27)
+======================================================
+('Liquor and Wine Warehouse Operations::0', 'Department of Liquor Control::0')(Records affected = 17)
+======================================================
+('Payroll::0', 'Department of Finance::0')(Records affected = 8)
+======================================================
+('Council Members and Staff::0', 'County Council::0')(Records affected = 49)
+======================================================
+('PSB 4th District Community Action Team::0', 'Department of Police::0')(Records affected = 6)
+======================================================
+('Station 13::0', 'Fire and Rescue Services::0')(Records affected = 18)
+======================================================
+('Fleet Automotive Heavy Equipment::0', 'Department of General Services::0')(Records affected = 36)
+======================================================
+('Muddy Branch::0', 'Department of Liquor Control::0')(Records affected = 9)
+======================================================
+('Station 6::0', 'Fire and Rescue Services::0')(Records affected = 27)
+======================================================
+('Sheriff Domestic Violence::0', "Sheriff's Office::0")(Records affected = 41)
+======================================================
+('Training Academy Administration and Operations::0', 'Fire and Rescue Services::0')(Records affected = 15)
+======================================================
+('Transit Operations and Planning::0', 'Department of Transportation::0')(Records affected = 6)
+======================================================
+('Code Compliance::0', 'Fire and Rescue Services::0')(Records affected = 22)
+======================================================
+('Warrant Section::0', "Sheriff's Office::0")(Records affected = 18)
+======================================================
+('Aging and Disability Resource Unit::0', 'Department of Health and Human Services::0')(Records affected = 9)
+======================================================
+('FSB Special Operations Division Tactical Operations Section::0', 'Department of Police::0')(Records affected = 15)
+======================================================
+('Station 19::0', 'Fire and Rescue Services::0')(Records affected = 27)
+======================================================
+('Third Battalion - Administration::0', 'Fire and Rescue Services::0')(Records affected = 22)
+======================================================
+('Transportation Engineering Administration::0', 'Department of Transportation::0')(Records affected = 6)
+======================================================
+('Maternity Dental::0', 'Department of Health and Human Services::0')(Records affected = 12)
+======================================================
+('Water Quality Monitoring and Planning::0', 'Department of Environmental Protection::0')(Records affected = 15)
+======================================================
+('FSB Traffic Division Alcohol Initiatives Section::0', 'Department of Police::0')(Records affected = 7)
+======================================================
+('Clinical Assessment and Triage Services::0', 'Department of Health and Human Services::0')(Records affected = 10)
+======================================================
+('Station 23::0', 'Fire and Rescue Services::0')(Records affected = 44)
+======================================================
+('Transportation Planning and Design Section::0', 'Department of Transportation::0')(Records affected = 24)
+======================================================
+('Finance and Procurement::0', "County Attorney's Office::0")(Records affected = 14)
+======================================================
+('Finance and Administrative Support Team::0', 'Community Use of Public Facilities::0')(Records affected = 8)
+======================================================
+('Station 28::0', 'Fire and Rescue Services::0')(Records affected = 24)
+======================================================
+('Tax Operations::0', 'Department of Finance::0')(Records affected = 25)
+======================================================
+('DO::0', 'Correction and Rehabilitation::0')(Records affected = 21)
+======================================================
+('Contract Team::0', 'Department of Health and Human Services::0')(Records affected = 10)
+======================================================
+('DS Food Services::0', 'Correction and Rehabilitation::0')(Records affected = 19)
+======================================================
+('White Oak Library::0', 'Department of Public Libraries::0')(Records affected = 14)
+======================================================
+('ISB Criminal Investigations Division 1st District Investigative Section::0', 'Department of Police::0')(Records affected = 7)
+======================================================
+('PSB 4th District Station::0', 'Department of Police::0')(Records affected = 8)
+======================================================
+('Health and Employee Welfare::0', 'Office of Human Resources::0')(Records affected = 9)
+======================================================
+('ISB Family Crimes Division Child Abuse Sexual Assault Section::0', 'Department of Police::0')(Records affected = 18)
+======================================================
+('Adult Behavioral Health Services::0', 'Department of Health and Human Services::0')(Records affected = 13)
+======================================================
+('Area Agency on Aging Administration::0', 'Department of Health and Human Services::0')(Records affected = 8)
+======================================================
+('Transportation Construction Section::0', 'Department of Transportation::0')(Records affected = 12)
+======================================================
+('Jail Addiction Services::0', 'Department of Health and Human Services::0')(Records affected = 8)
+======================================================
+('Station 30::0', 'Fire and Rescue Services::0')(Records affected = 21)
+======================================================
+('DS MCCF Unit 1 Security::0', 'Correction and Rehabilitation::0')(Records affected = 65)
+======================================================
+('Service Coordination and Individual Support Services::0', 'Department of Health and Human Services::0')(Records affected = 7)
+======================================================
+('Infants and Toddlers::0', 'Department of Health and Human Services::0')(Records affected = 12)
+======================================================
+('MSB Training and Education Division::0', 'Department of Police::0')(Records affected = 48)
+======================================================
+('Potomac Library::0', 'Department of Public Libraries::0')(Records affected = 12)
+======================================================
+('Victim Assistance and Sexual Assault Program::0', 'Department of Health and Human Services::0')(Records affected = 15)
+======================================================
+('Team 2 Residential Inspection::0', 'Department of Permitting Services::0')(Records affected = 16)
+======================================================
+('Multi-Family Housing Program::0', 'Department of Housing and Community Affairs::0')(Records affected = 6)
+======================================================
+('MSB Information Mgmt and Tech Division Records Management Section::0', 'Department of Police::0')(Records affected = 11)
+======================================================
+('Behavioral Health Community Support Services::0', 'Department of Health and Human Services::0')(Records affected = 8)
+======================================================
+('DO Fiscal Services::0', 'Correction and Rehabilitation::0')(Records affected = 7)
+======================================================
+('Classification and Compensation::0', 'Office of Human Resources::0')(Records affected = 6)
+======================================================
+('HQ Office of the Chief Internal Affairs Division::0', 'Department of Police::0')(Records affected = 9)
+======================================================
+('Emergency Communications Center (PSCC)::0', 'Fire and Rescue Services::0')(Records affected = 65)
+======================================================
+('Facilities Major Programs::0', 'Department of General Services::0')(Records affected = 6)
+======================================================
+('Civil Process::0', "Sheriff's Office::0")(Records affected = 13)
+======================================================
+('ERP Technical Support::0', 'Department of Technology Services::0')(Records affected = 6)
+======================================================
+('Operations and Administration -::0', 'Department of Finance::0')(Records affected = 6)
+======================================================
+('Head Start/Pre-K (Health)::0', 'Department of Health and Human Services::0')(Records affected = 8)
+======================================================
+('Emergency Medical Services::0', 'Fire and Rescue Services::0')(Records affected = 13)
+======================================================
+('Sign and Marking Shop::0', 'Department of Transportation::0')(Records affected = 11)
+======================================================
+('PSB 6th District Patrol::0', 'Department of Police::0')(Records affected = 106)
+======================================================
+('Solid Waste Services Operations::0', 'Department of Environmental Protection::0')(Records affected = 20)
+======================================================
+('Rental Assistance::0', 'Department of Health and Human Services::0')(Records affected = 6)
+======================================================
+('Property Management::0', 'Department of General Services::0')(Records affected = 7)
+======================================================
+('MC311::0', 'Office of Public Information::0')(Records affected = 46)
+======================================================
+('Station 20::0', 'Fire and Rescue Services::0')(Records affected = 12)
+======================================================
+('Station 33::0', 'Fire and Rescue Services::0')(Records affected = 24)
+======================================================
+('Northern Region::0', 'Department of Recreation::0')(Records affected = 8)
+======================================================
+('Chief,::0', 'Department of Health and Human Services::0')(Records affected = 16)
+======================================================
+('Accounts Receivable::0', 'Department of Finance::0')(Records affected = 6)
+======================================================
+('Kingsview::0', 'Department of Liquor Control::0')(Records affected = 8)
+======================================================
+('Little Falls Library::0', 'Department of Public Libraries::0')(Records affected = 13)
+======================================================
+('PRRS Reentry Services and Programs::0', 'Correction and Rehabilitation::0')(Records affected = 9)
+======================================================
+('Station 24::0', 'Fire and Rescue Services::0')(Records affected = 36)
+======================================================
+('ISB Major Crimes Division Homicide and Sex Section::0', 'Department of Police::0')(Records affected = 14)
+======================================================
+('Management Services Bureau::0', 'Department of Police::0')(Records affected = 10)
+======================================================
+('Real Estate Office::0', 'Department of General Services::0')(Records affected = 7)
+======================================================
+('Countywide Programs Sports::0', 'Department of Recreation::0')(Records affected = 11)
+======================================================
+('Environmental Planning and Policy Implementation::0', 'Department of Environmental Protection::0')(Records affected = 7)
+======================================================
+('Transit Safety and Instruction::0', 'Department of Transportation::0')(Records affected = 15)
+======================================================
+('Wheaton Urban District::0', 'Community Engagement Cluster::0')(Records affected = 16)
+======================================================
+('Land Development::0', 'Department of Permitting Services::0')(Records affected = 59)
+======================================================
+('Station 14::0', 'Fire and Rescue Services::0')(Records affected = 17)
+======================================================
+('Automation::0', 'Department of::0')(Records affected = 7)
+======================================================
+('PSB 1st District Community Action Team::0', 'Department of Police::0')(Records affected = 6)
+======================================================
+('Quince Orchard Library::0', 'Department of Public Libraries::0')(Records affected = 22)
+======================================================
+('Station 8::0', 'Fire and Rescue Services::0')(Records affected = 54)
+======================================================
+('Traffic Engineering and Operations::0', 'Department of Transportation::0')(Records affected = 11)
+======================================================
+('Capital Budget Management::0', 'Office of Management and Budget::0')(Records affected = 6)
+======================================================
+('Child Care Subsidies - Admin::0', 'Department of Health and Human Services::0')(Records affected = 11)
+======================================================
+('Station 34::0', 'Fire and Rescue Services::0')(Records affected = 33)
+======================================================
+('Medication Assisted Treatment - Clinical and Vocational Services::0', 'Department of Health and Human Services::0')(Records affected = 12)
+======================================================
+('Educational Support::0', 'Department of Health and Human Services::0')(Records affected = 7)
+======================================================
+('Financial Administration::0', 'Department of Liquor Control::0')(Records affected = 7)
+======================================================
+('Parking Management Engineering and Maintenance::0', 'Department of Transportation::0')(Records affected = 19)
+======================================================
+('Davis Library::0', 'Department of Public Libraries::0')(Records affected = 16)
+======================================================
+('Rescue 2::0', 'Fire and Rescue Services::0')(Records affected = 10)
+======================================================
+('Budget Team::0', 'Department of Health and Human Services::0')(Records affected = 8)
+======================================================
+('TB and Refugee Health::0', 'Department of Health and Human Services::0')(Records affected = 12)
+======================================================
+('Ombudsman Services::0', 'Department of Health and Human Services::0')(Records affected = 7)
+======================================================
+('Information Systems and Technology::0', 'Department of Health and Human Services::0')(Records affected = 20)
+======================================================
+('Fleet Management Services::0', 'Department of General Services::0')(Records affected = 35)
+======================================================
+('Care Coordination::0', 'Department of Health and Human Services::0')(Records affected = 12)
+======================================================
+('EASD Geographic Information System::0', 'Department of Technology Services::0')(Records affected = 9)
+======================================================
+('Fleet Management Administration::0', 'Department of General Services::0')(Records affected = 13)
+======================================================
+('Central Duplicating::0', 'Department of General Services::0')(Records affected = 24)
+======================================================
+('Cataloging and Preparation::0', 'Department of Public Libraries::0')(Records affected = 7)
+======================================================
+('ESOD Data Center Operations::0', 'Department of Technology Services::0')(Records affected = 7)
+======================================================
+('PSB 3rd District Special Assignment Team::0', 'Department of Police::0')(Records affected = 8)
+======================================================
+('ISB Criminal Investigations Division 3rd District Investigative Section::0', 'Department of Police::0')(Records affected = 10)
+======================================================
+('COO Office - Project Mangement Office::0', 'Department of Technology Services::0')(Records affected = 6)
+======================================================
+('Station 17::0', 'Fire and Rescue Services::0')(Records affected = 27)
+======================================================
+('Traffic Engineering Studies Section::0', 'Department of Transportation::0')(Records affected = 15)
+======================================================
+('Zoning, Land Use and Economic Development::0', "County Attorney's Office::0")(Records affected = 7)
+======================================================
+('Fourth Battalion - Administration::0', 'Fire and Rescue Services::0')(Records affected = 14)
+======================================================
+('Aspen Hill Library::0', 'Department of Public Libraries::0')(Records affected = 14)
+======================================================
+('Field Recruits::0', 'Fire and Rescue Services::0')(Records affected = 36)
+======================================================
+('ISB Criminal Investigations Division 5th District Investigative Section::0', 'Department of Police::0')(Records affected = 7)
+======================================================
+('Housing Landlord and Tenant Mediation::0', 'Department of Housing and Community Affairs::0')(Records affected = 7)
+======================================================
+('Second Battalion - Administration::0', 'Fire and Rescue Services::0')(Records affected = 16)
+======================================================
+('Station 7::0', 'Fire and Rescue Services::0')(Records affected = 15)
+======================================================
+('Parking Management Operations::0', 'Department of Transportation::0')(Records affected = 13)
+======================================================
+('DS MCCF Case Managers Unit::0', 'Correction and Rehabilitation::0')(Records affected = 10)
+======================================================
+('Southern Region::0', 'Department of Recreation::0')(Records affected = 6)
+======================================================
+('Kensington Park Library::0', 'Department of Public Libraries::0')(Records affected = 8)
+======================================================
+('Chevy Chase Library::0', 'Department of Public Libraries::0')(Records affected = 13)
+======================================================
+('Division of Fiscal Management::0', 'Department of Finance::0')(Records affected = 11)
+======================================================
+('Watershed Restoration and Capital Projects::0', 'Department of Environmental Protection::0')(Records affected = 12)
+======================================================
+('Darnestown::0', 'Department of Liquor Control::0')(Records affected = 9)
+======================================================
+('Montrose::0', 'Department of Liquor Control::0')(Records affected = 10)
+======================================================
+('Legislative Oversight Staff::0', 'Office of Legislative Oversight::0')(Records affected = 9)
+======================================================
+('Station 21::0', 'Fire and Rescue Services::0')(Records affected = 24)
+======================================================
+('Abused Persons Program::0', 'Department of Health and Human Services::0')(Records affected = 11)
+======================================================
+('PSB 4th District Traffic Squad::0', 'Department of Police::0')(Records affected = 8)
+======================================================
+('MSB Personnel Division Background Section::0', 'Department of Police::0')(Records affected = 10)
+======================================================
+('Transit Commuter Services::0', 'Department of Transportation::0')(Records affected = 11)
+======================================================
+('Gaithersburg Library::0', 'Department of Public Libraries::0')(Records affected = 24)
+======================================================
+('Station 10::0', 'Fire and Rescue Services::0')(Records affected = 27)
+======================================================
+('DS Intake Classification and Re-Entry Services::0', 'Correction and Rehabilitation::0')(Records affected = 7)
+======================================================
+('Fire and Explosive Investigations::0', 'Fire and Rescue Services::0')(Records affected = 13)
+======================================================
+('Solid Waste Services Collection Operations::0', 'Department of Environmental Protection::0')(Records affected = 22)
+======================================================
+('First Battalion - Administration::0', 'Fire and Rescue Services::0')(Records affected = 16)
+======================================================
+('PSB 1st District Traffic Squad::0', 'Department of Police::0')(Records affected = 9)
+======================================================
+('ISB Criminal Investigations Division Crime Laboratory Section::0', 'Department of Police::0')(Records affected = 14)
+======================================================
+('PSB 3rd District Community Action Team::0', 'Department of Police::0')(Records affected = 6)
+======================================================
+('FSB Special Operations Division Canine Section::0', 'Department of Police::0')(Records affected = 19)
+======================================================
+('School Based Health Centers::0', 'Department of Health and Human Services::0')(Records affected = 10)
+======================================================
+('FSB Traffic Division Collision Reconstruction::0', 'Department of Police::0')(Records affected = 10)
+======================================================
+('DS Inmate Records::0', 'Correction and Rehabilitation::0')(Records affected = 13)
+======================================================
+("County Executive's Office::0", 'Offices of the County Executive::0')(Records affected = 7)
+======================================================
+('Accounts Payable::0', 'Department of Finance::0')(Records affected = 8)
+======================================================
+('DS MCDC Central Processing Unit::0', 'Correction and Rehabilitation::0')(Records affected = 20)
+======================================================
+('ISB Criminal Investigations Division Forensic Services Section::0', 'Department of Police::0')(Records affected = 23)
+======================================================
+('PSB 5th District Station::0', 'Department of Police::0')(Records affected = 7)
+======================================================
+('Transit Management Services::0', 'Department of Transportation::0')(Records affected = 10)
+======================================================
+('Montgomery Cares::0', 'Department of Health and Human Services::0')(Records affected = 7)
+======================================================
+('Pike::0', 'Department of Liquor Control::0')(Records affected = 9)
+======================================================
+('PSB 5th District Traffic Squad::0', 'Department of Police::0')(Records affected = 6)
+======================================================
+('PSB 2nd District Special Assignment Team::0', 'Department of Police::0')(Records affected = 7)
+======================================================
+('Child Support::0', "Sheriff's Office::0")(Records affected = 7)
+======================================================
+('PSB 1st District Station::0', 'Department of Police::0')(Records affected = 6)
+======================================================
+('ISB Criminal Investigations Division 4th District Investigative Section::0', 'Department of Police::0')(Records affected = 9)
+======================================================
+('Technical Services::0', 'Department of Housing and Community Affairs::0')(Records affected = 7)
+======================================================
+('Fifth Battalion - Administration::0', 'Fire and Rescue Services::0')(Records affected = 17)
+======================================================
+('Cloverly::0', 'Department of Liquor Control::0')(Records affected = 8)
+======================================================
+('Land Development Permit Processing::0', 'Department of Permitting Services::0')(Records affected = 9)
+======================================================
+('Access to Behavioral Health Services::0', 'Department of Health and Human Services::0')(Records affected = 13)
+======================================================
+('Field Services Bureau::0', 'Department of Police::0')(Records affected = 13)
+======================================================
+('Chevy Chase Center::0', 'Department of Liquor Control::0')(Records affected = 8)
+======================================================
+('Wheaton Library::0', 'Department of Public Libraries::0')(Records affected = 19)
+======================================================
+('Hampden Lane::0', 'Department of Liquor Control::0')(Records affected = 8)
+======================================================
+('Site Plan Enforcement::0', 'Department of Permitting Services::0')(Records affected = 16)
+======================================================
+('Senior::0', 'Department of Health and Human Services::0')(Records affected = 7)
+======================================================
+('Land Development Sediment Stormwater Plan Review::0', 'Department of Permitting Services::0')(Records affected = 9)
+======================================================
+('Station 11::0', 'Fire and Rescue Services::0')(Records affected = 21)
+======================================================
+('Community Action Agency::0', 'Department of Health and Human Services::0')(Records affected = 11)
+======================================================
+('PTS Supervision::0', 'Correction and Rehabilitation::0')(Records affected = 13)
+======================================================
+('ISB Major Crimes Division Robbery Section::0', 'Department of Police::0')(Records affected = 12)
+======================================================
+('Enterprise::0', 'Department of Technology Services::0')(Records affected = 10)
+======================================================
+('Technology Management::0', 'Department of Public Libraries::0')(Records affected = 8)
+======================================================
+('Registration Services::0', 'Board of Elections::0')(Records affected = 6)
+======================================================
+('PSB 3rd District Traffic Squad::0', 'Department of Police::0')(Records affected = 8)
+======================================================
+('Land Development Right-of-Way Inspection::0', 'Department of Permitting Services::0')(Records affected = 9)
+======================================================
+('ETSD Network Services::0', 'Department of Technology Services::0')(Records affected = 9)
+======================================================
+('Youth Development Your Sports/Activities::0', 'Department of Recreation::0')(Records affected = 11)
+======================================================
+('General Accounting::0', 'Department of Finance::0')(Records affected = 19)
+======================================================
+('Collection Development::0', 'Department of Public Libraries::0')(Records affected = 14)
+======================================================
+('PSB 2nd District Traffic Squad::0', 'Department of Police::0')(Records affected = 8)
+======================================================
+('Polling Place Management::0', 'Board of Elections::0')(Records affected = 6)
+======================================================
+('Urine Monitoring Program::0', 'Department of Health and Human Services::0')(Records affected = 8)
+======================================================
+('Procurement Operations Section::0', 'Office of Procurement::0')(Records affected = 21)
+======================================================
+('Insurance Defense Litigation::0', "County Attorney's Office::0")(Records affected = 14)
+======================================================
+('Building Construction Permit Processing::0', 'Department of Permitting Services::0')(Records affected = 12)
+======================================================
+('Beer Warehouse Operations::0', 'Department of Liquor Control::0')(Records affected = 12)
+======================================================
+('Station 5::0', 'Fire and Rescue Services::0')(Records affected = 7)
+======================================================
+('ISB Criminal Investigations Division 2nd District Investigative Section::0', 'Department of Police::0')(Records affected = 7)
+======================================================
+('Station 26::0', 'Fire and Rescue Services::0')(Records affected = 12)
+======================================================
+('Station 22::0', 'Fire and Rescue Services::0')(Records affected = 24)
+======================================================
+('PSB 1st District Special Assignment Team::0', 'Department of Police::0')(Records affected = 7)
+======================================================
+('ISB Criminal Investigations Division Central Auto Theft Section::0', 'Department of Police::0')(Records affected = 9)
+======================================================
+('PSB 5th District Community Action Team::0', 'Department of Police::0')(Records affected = 7)
+======================================================
+('Nursing Home Inspections::0', 'Department of Health and Human Services::0')(Records affected = 6)
+======================================================
+('Transit COS::0', 'Department of Transportation::0')(Records affected = 10)
+======================================================
+('ISB Family Crimes Division Family Outreach Section::0', 'Department of Police::0')(Records affected = 12)
+======================================================
+('Scheduling Team::0', 'Community Use of Public Facilities::0')(Records affected = 14)
+======================================================
+('Administration and Budget::0', 'Department of General Services::0')(Records affected = 6)
+======================================================
+('Twinbrook Library::0', 'Department of Public Libraries::0')(Records affected = 12)
+======================================================
+('Solid Waste Services Recycling::0', 'Department of Environmental Protection::0')(Records affected = 18)
+======================================================
+('Fiscal Team::0', 'Department of Health and Human Services::0')(Records affected = 19)
+======================================================
+('Land Development Sediment and Stormwater Inspection::0', 'Department of Permitting Services::0')(Records affected = 14)
+======================================================
+('Human Resources and Appeals::0', "County Attorney's Office::0")(Records affected = 8)
+======================================================
+('PSB 3rd District Station::0', 'Department of Police::0')(Records affected = 12)
+======================================================
+('MSB Management and Budget Division Abandoned Vehicle Section::0', 'Department of Police::0')(Records affected = 9)
+======================================================
+('Transit Central Communication::0', 'Department of Transportation::0')(Records affected = 12)
+======================================================
+('Adult Drug Court::0', 'Department of Health and Human Services::0')(Records affected = 7)
+======================================================
+('Customer Information::0', 'Department of Permitting Services::0')(Records affected = 6)
+======================================================
+('PSB 6th District Traffic Squad::0', 'Department of Police::0')(Records affected = 6)
+======================================================
+('Public Health Emergency Preparedness and Response Program::0', 'Department of Health and Human Services::0')(Records affected = 6)
+======================================================
+('Stormwater Facility Inspection and Maintenance::0', 'Department of Environmental Protection::0')(Records affected = 14)
+======================================================
+('Station 32::0', 'Fire and Rescue Services::0')(Records affected = 24)
+======================================================
+('MSB Policy and Planning Division::0', 'Department of Police::0')(Records affected = 6)
+======================================================
+('Leisure World::0', 'Department of Liquor Control::0')(Records affected = 10)
+======================================================
+('Special Projects - Linkages to Learning::0', 'Department of Health and Human Services::0')(Records affected = 6)
+======================================================
+('Facilities and Logistical Services::0', 'Department of Health and Human Services::0')(Records affected = 9)
+======================================================
+('Adult Foster Care - Project Home::0', 'Department of Health and Human Services::0')(Records affected = 8)
+======================================================
+('Land Development Right-of-Way Plan Review::0', 'Department of Permitting Services::0')(Records affected = 9)
+======================================================
+('MCERP::0', 'Non-Departmental Account::0')(Records affected = 12)
+======================================================
+('Support Planning::0', 'Department of Health and Human Services::0')(Records affected = 7)
+======================================================
+('Operating Budget Management::0', 'Office of Management and Budget::0')(Records affected = 7)
+======================================================
+('Marilyn J Praisner Library::0', 'Department of Public Libraries::0')(Records affected = 17)
+======================================================
+('Health and Human Services::0', "County Attorney's Office::0")(Records affected = 10)
+======================================================
+('PSB 2nd District Station::0', 'Department of Police::0')(Records affected = 10)
+======================================================
+('Fallsgrove::0', 'Department of Liquor Control::0')(Records affected = 9)
+======================================================
+('ISB Criminal Investigations Division 6th District Investigative Section::0', 'Department of Police::0')(Records affected = 8)
+======================================================
+('Westwood::0', 'Department of Liquor Control::0')(Records affected = 10)
+======================================================
+('Public Service Administration::0', 'Department of Public Libraries::0')(Records affected = 6)
+======================================================
+('Marketing and Business Development::0', 'Department of Economic Development::0')(Records affected = 9)
+======================================================
+('COO Office - Management Services::0', 'Department of Technology Services::0')(Records affected = 6)
+======================================================
+('PSB 5th District Special Assignment Team::0', 'Department of Police::0')(Records affected = 8)
+======================================================
+('Poolesville Library::0', 'Department of Public Libraries::0')(Records affected = 6)
+======================================================
+('PSB 4th District Educational Facilities Officers::0', 'Department of Police::0')(Records affected = 6)
+======================================================
+('ISB Family Crimes Division Pedophile Section::0', 'Department of Police::0')(Records affected = 9)
+======================================================
+('PSB 6th District Station::0', 'Department of Police::0')(Records affected = 7)
+======================================================
+('Chief, Public Health::0', 'Department of Health and Human Services::0')(Records affected = 6)
+======================================================
+('Transit Special Transportation and Medicaid::0', 'Department of Transportation::0')(Records affected = 7)
+======================================================
+("Women's Health Services::0", 'Department of Health and Human Services::0')(Records affected = 7)
+======================================================
+('Burtonsville::0', 'Department of Liquor Control::0')(Records affected = 6)
+======================================================

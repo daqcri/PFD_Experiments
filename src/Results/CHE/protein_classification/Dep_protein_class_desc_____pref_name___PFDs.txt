@@ -1,0 +1,77 @@
+Coverage =  0.5268065268065268)
+('transcription factor::0', 'Nuclear::0')(Records affected = 74)
+======================================================
+('enzyme  cytochrome p450::0', 'Cytochrome P450::0')(Records affected = 78)
+======================================================
+('enzyme  protease  serine  pas::0', 'Serine protease::0')(Records affected = 6)
+======================================================
+('enzyme  protease  serine  sc::0', 'Serine protease::0')(Records affected = 6)
+======================================================
+('enzyme  protease  cysteine  ca::0', 'Cysteine protease::0')(Records affected = 7)
+======================================================
+('enzyme  protease  metallo  mae::0', 'Metallo protease::0')(Records affected = 10)
+======================================================
+('enzyme  protease  metallo  mh::0', 'Metallo protease::0')(Records affected = 6)
+======================================================
+('enzyme  protease  aspartic::0', 'Aspartic protease::0')(Records affected = 9)
+======================================================
+('enzyme  protease  cysteine  cd::0', 'Cysteine protease::0')(Records affected = 6)
+======================================================
+('enzyme  phosphodiesterase::0', 'Phosphodiesterase::0')(Records affected = 36)
+======================================================
+('enzyme  phosphodiesterase  pde_6::0', 'Phosphodiesterase::0')(Records affected = 7)
+======================================================
+('enzyme  kinase  protein kinase  atypical::0', 'Atypical protein kinase::0')(Records affected = 12)
+======================================================
+('enzyme  kinase  protein kinase  tk::0', 'Tyrosine protein kinase::0')(Records affected = 28)
+======================================================
+('enzyme  kinase  protein kinase  cmgc::0', 'CMGC protein kinase::0')(Records affected = 32)
+======================================================
+('enzyme  kinase  protein kinase  other::0', 'Other protein kinase::0')(Records affected = 31)
+======================================================
+('enzyme  cytochrome p450  cyp_1::0', 'Cytochrome P450::0')(Records affected = 6)
+======================================================
+('enzyme  cytochrome p450  cyp_2::0', 'Cytochrome P450::0')(Records affected = 23)
+======================================================
+('enzyme  cytochrome p450  cyp_2  cyp_2c::0', 'Cytochrome P450::0')(Records affected = 7)
+======================================================
+('enzyme  cytochrome p450  cyp_2  cyp_2d::0', 'Cytochrome P450::0')(Records affected = 6)
+======================================================
+('enzyme  cytochrome p450  cyp_3::0', 'Cytochrome P450::0')(Records affected = 6)
+======================================================
+('enzyme  cytochrome p450  cyp_4::0', 'Cytochrome P450::0')(Records affected = 8)
+======================================================
+('enzyme  kinase  protein kinase  agc::0', 'AGC protein kinase::0')(Records affected = 29)
+======================================================
+('transcription factor  nuclear receptor  nr2::0', 'Nuclear hormone receptor subfamily 2 group::0')(Records affected = 17)
+======================================================
+('enzyme  kinase  protein kinase  agc  pkc::0', 'AGC protein kinase PKC::0')(Records affected = 7)
+======================================================
+('enzyme  cytochrome p450  cyp_11::0', 'Cytochrome P450::0')(Records affected = 6)
+======================================================
+('enzyme  kinase  protein kinase  camk::0', 'CAMK protein kinase::0')(Records affected = 28)
+======================================================
+('enzyme  kinase  protein kinase  cmgc  cdk::0', 'CMGC protein kinase::0')(Records affected = 12)
+======================================================
+('enzyme  kinase  protein kinase  tkl::0', 'TKL protein kinase::0')(Records affected = 18)
+======================================================
+('enzyme  kinase  protein kinase  cmgc  mapk::0', 'CMGC protein kinase::0')(Records affected = 8)
+======================================================
+('enzyme  kinase  protein kinase  ste::0', 'STE protein kinase::0')(Records affected = 17)
+======================================================
+('enzyme  kinase  protein kinase  ste  ste20::0', 'STE protein kinase::0')(Records affected = 11)
+======================================================
+('enzyme  kinase  protein kinase  tkl  mlk::0', 'TKL protein kinase::0')(Records affected = 6)
+======================================================
+('transcription factor  nuclear receptor  nr3::0', 'Nuclear hormone receptor subfamily 3 group::0')(Records affected = 13)
+======================================================
+('transcription factor  nuclear receptor  nr1::0', 'Nuclear hormone receptor subfamily 1 group::0')(Records affected = 26)
+======================================================
+('enzyme  kinase  protein kinase  camk  camkl::0', 'CAMK protein kinase::0')(Records affected = 11)
+======================================================
+('ion channel  lgic  ach::0', 'Nicotinic acetylcholine receptor::0')(Records affected = 6)
+======================================================
+('ion channel  other  gap::0', 'Gap junction protein::0')(Records affected = 7)
+======================================================
+('epigenetic regulator  eraser  hdac::0', 'HDAC class::0')(Records affected = 6)
+======================================================

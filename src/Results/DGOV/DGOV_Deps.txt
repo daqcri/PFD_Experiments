@@ -1,0 +1,65 @@
+6397-1.csv::Year<==>RowID
+6397-1.csv::Location<==>RowID
+6397-1.csv::IndicatorID<==>RowID
+6397-1.csv::Year<==>Date
+6397-1.csv::RowID<==>Year
+6397-1.csv::Date<==>Year
+6397-1.csv::RowID<==>Location
+6397-1.csv::IndicatorID<==>IndicatorName
+6397-1.csv::IndicatorID_old<==>IndicatorName
+6397-1.csv::RowID<==>IndicatorID
+6397-1.csv::IndicatorName<==>IndicatorID
+6397-1.csv::IndicatorID_old<==>IndicatorID
+6397-1.csv::IndicatorName<==>IndicatorID_old
+6397-1.csv::IndicatorID<==>IndicatorID_old
+6397-1.csv::IndicatorName<==>IndicatorTable
+6397-1.csv::IndicatorID<==>IndicatorTable
+10492-1.csv::Location<==>Street
+10492-1.csv::Street<==>City
+10492-1.csv::Zip<==>City
+10492-1.csv::Location<==>City
+10492-1.csv::Street<==>Zip
+10492-1.csv::City<==>Zip
+10492-1.csv::Licensee Number<==>Zip
+10492-1.csv::Location<==>Zip
+10492-1.csv::Licensee Name<==>Channel Type
+10492-1.csv::Street<==>Channel Type
+10492-1.csv::Licensee Number<==>Channel Type
+10492-1.csv::Account Name<==>Channel Type
+10492-1.csv::Location<==>Channel Type
+10492-1.csv::Street<==>Location
+10492-1.csv::City<==>Location
+10492-1.csv::Zip<==>Location
+6339-1.csv::Year<==>RowID
+6339-1.csv::Location<==>RowID
+6339-1.csv::IndicatorName<==>RowID
+6339-1.csv::Year<==>Date
+6339-1.csv::RowID<==>Year
+6339-1.csv::Date<==>Year
+6339-1.csv::RowID<==>Location
+6339-1.csv::RowID<==>IndicatorName
+10642-1.csv::map<==>Address
+10642-1.csv::ZIP Code<==>City
+10642-1.csv::map<==>City
+10642-1.csv::City<==>State
+10642-1.csv::ZIP Code<==>State
+10642-1.csv::City<==>ZIP Code
+10642-1.csv::map<==>ZIP Code
+10642-1.csv::Address<==>map
+10642-1.csv::City<==>map
+10642-1.csv::ZIP Code<==>map
+570-1.csv::Full Name<==>Gender
+570-1.csv::Division<==>Gender
+570-1.csv::Position Title<==>Gender
+570-1.csv::Department Name<==>Department
+570-1.csv::Division<==>Department
+570-1.csv::Position Title<==>Department
+570-1.csv::Department<==>Department Name
+570-1.csv::Division<==>Department Name
+570-1.csv::Position Title<==>Department Name
+570-1.csv::Date First Hired<==>Department Name
+570-1.csv::Position Title<==>Division
+570-1.csv::Division<==>Assignment Category
+570-1.csv::Position Title<==>Assignment Category
+570-1.csv::Date First Hired<==>Assignment Category
+570-1.csv::Division<==>Position Title

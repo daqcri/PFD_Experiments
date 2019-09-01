@@ -1,0 +1,5 @@
+Protein class  |=  0
+AGC protein kinase PKC family  |=  5
+Gap junction protein  |=  3
+Nicotinic acetylcholine receptor  |=  3
+Neurotransmitter receptor (family C GPCR)  |=  4

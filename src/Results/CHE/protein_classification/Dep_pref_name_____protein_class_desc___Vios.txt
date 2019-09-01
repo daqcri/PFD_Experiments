@@ -1,0 +1,2 @@
+Voltage-gated potassium channel beta-subunit family  |=  auxiliary transport protein  kv beta
+Nicotinic acetylcholine receptor  |=  ion channel  lgic  ach

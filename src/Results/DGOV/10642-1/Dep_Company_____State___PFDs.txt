@@ -1,0 +1,83 @@
+Coverage =  0.4880434782608696)
+('KELLY SERVICES::0', 'IL::0')(Records affected = 61)
+======================================================
+('METROSTAFF, INC.::0', 'IL::0')(Records affected = 9)
+======================================================
+('LABOR TEMPS II, LLC::0', 'IL::0')(Records affected = 7)
+======================================================
+('USCADEN CORPORATION/MANPOWER::0', 'IL::0')(Records affected = 25)
+======================================================
+('PEOPLE::0', 'IL::0')(Records affected = 7)
+======================================================
+('ELITE LABOR SERVICES, LTD./ELITE STAFFING, INC.::0', 'IL::0')(Records affected = 25)
+======================================================
+('REAL TIME STAFFING SERVICES, INC./SELECTREMEDY::0', 'IL::0')(Records affected = 29)
+======================================================
+('SMX, LLC::0', 'IL::0')(Records affected = 7)
+======================================================
+('RANDSTAD US, L.P.::0', 'IL::0')(Records affected = 22)
+======================================================
+('CORPORATE::0', 'IL::0')(Records affected = 10)
+======================================================
+('ACCURATE PERSONNEL, L.L.C.::0', 'IL::0')(Records affected = 12)
+======================================================
+('1ST CLASS STAFFING LLC::0', 'IL::0')(Records affected = 7)
+======================================================
+('UNISTAFF, INC.::0', 'IL::0')(Records affected = 9)
+======================================================
+('PREMIER EMPLOYEE SOLUTIONS, LLC::0', 'IL::0')(Records affected = 7)
+======================================================
+('UNIQUE PERSONNEL CONSULTANTS, INC.::0', 'IL::0')(Records affected = 11)
+======================================================
+("RON'S STAFFING SERVICES, INC.::0", 'IL::0')(Records affected = 7)
+======================================================
+('PERSONNEL STAFF. GRP./MOST VALUABLE::0', 'IL::0')(Records affected = 8)
+======================================================
+('LABOR SOLUTIONS::0', 'IL::0')(Records affected = 6)
+======================================================
+('SEATON, LLC::0', 'IL::0')(Records affected = 8)
+======================================================
+('THE RESERVES NETWORK INC.::0', 'IL::0')(Records affected = 8)
+======================================================
+('TS STAFFING SERVICES, INC./CORPORATE RESOURCE SERVICES-CRS::0', 'IL::0')(Records affected = 6)
+======================================================
+('PEOPLELINK STAFFING SOLUTIONS, LLC::0', 'IL::0')(Records affected = 9)
+======================================================
+('MMDK, INC.::0', 'IL::0')(Records affected = 9)
+======================================================
+('ELITE STAFFING IN::0', 'IL::0')(Records affected = 8)
+======================================================
+('SURESTAFF, INC.::0', 'IL::0')(Records affected = 9)
+======================================================
+('STAFFMARK INVESTMENT, LLC::0', 'IL::0')(Records affected = 12)
+======================================================
+('SNELLING EMPLOYMENT, LLC::0', 'IL::0')(Records affected = 8)
+======================================================
+('CROWN SERVICES, INC.::0', 'IL::0')(Records affected = 8)
+======================================================
+('CLEARSTAFF, INC.::0', 'IL::0')(Records affected = 7)
+======================================================
+('PARAMOUNT STAFFING OF CHICAGO::0', 'IL::0')(Records affected = 9)
+======================================================
+('ASG STAFFING, INC.::0', 'IL::0')(Records affected = 6)
+======================================================
+('ADECCO USA, INC.::0', 'IL::0')(Records affected = 7)
+======================================================
+('THE AGENCY STAFFING::0', 'IL::0')(Records affected = 6)
+======================================================
+('MAXIM HEALTHCARE SERVICES, INC.::0', 'IL::0')(Records affected = 9)
+======================================================
+('STAFFING NETWORK HOLDINGS, LLC::0', 'IL::0')(Records affected = 9)
+======================================================
+('EMPLOYMENT PLUS, INC.::0', 'IL::0')(Records affected = 7)
+======================================================
+('CBS PERSONNEL SERVICES, LLC::0', 'IL::0')(Records affected = 9)
+======================================================
+('AEROTEK, INC./AEROTEK OF MARYLEND, INC.::0', 'IL::0')(Records affected = 10)
+======================================================
+('INDUSTRIAL::0', 'IL::0')(Records affected = 10)
+======================================================
+('INDUSTRIAL STAFFING/FLEXIBLE STAFFING::0', 'IL::0')(Records affected = 6)
+======================================================
+('QUALITY::0', 'IL::0')(Records affected = 6)
+======================================================

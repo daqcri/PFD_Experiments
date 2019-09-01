@@ -1,0 +1,17 @@
+Coverage =  1.0)
+('2010::0', ': Sex by age by employment status::1')(Records affected = 829)
+======================================================
+('2011::0', ': Sex by age by employment status::1')(Records affected = 829)
+======================================================
+('2007::0', ': Sex by age by employment status::1')(Records affected = 829)
+======================================================
+('2008::0', ': Sex by age by employment status::1')(Records affected = 829)
+======================================================
+('2009::0', ': Sex by age by employment status::1')(Records affected = 847)
+======================================================
+('2012::0', ': Sex by age by employment status::1')(Records affected = 847)
+======================================================
+('2013::0', ': Sex by age by employment status::1')(Records affected = 847)
+======================================================
+('2014::0', ': Sex by age by employment status::1')(Records affected = 847)
+======================================================

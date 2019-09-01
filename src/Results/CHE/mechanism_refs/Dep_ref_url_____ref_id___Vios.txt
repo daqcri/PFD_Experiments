@@ -1,0 +1,10 @@
+http://www.isbnsearch.org/isbn/0865778434  |=  0865778434 PP. 188
+http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fd638e5e-8032-e7ca-0179-95e96ab5d387  |=  fd638e5e-8032-e7ca-0179-95e96ab5d387
+http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63df5af3-b8ac-4e76-9830-2dbb340af922  |=  63df5af3-b8ac-4e76-9830-2dbb340af922
+http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b0700c9-b417-4c3a-b36f-de461e125bd3  |=  4b0700c9-b417-4c3a-b36f-de461e125bd3
+http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b0700c9-b417-4c3a-b36f-de461e125bd3  |=  4b0700c9-b417-4c3a-b36f-de461e125bd3
+http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b0700c9-b417-4c3a-b36f-de461e125bd3  |=  4b0700c9-b417-4c3a-b36f-de461e125bd3
+http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b57509a-3d5d-41d4-8fed-1471e26372a3  |=  7b57509a-3d5d-41d4-8fed-1471e26372a3
+http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fd638e5e-8032-e7ca-0179-95e96ab5d387  |=  fd638e5e-8032-e7ca-0179-95e96ab5d387
+http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fd638e5e-8032-e7ca-0179-95e96ab5d387  |=  fd638e5e-8032-e7ca-0179-95e96ab5d387
+http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2168  |=  2168

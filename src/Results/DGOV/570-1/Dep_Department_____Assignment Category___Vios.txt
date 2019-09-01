@@ -1,0 +1,7 @@
+DOT  |=  Parttime-Regular
+CUS  |=  Parttime-Regular
+DEP  |=  Parttime-Regular
+DOT  |=  Parttime-Regular
+OAG  |=  Parttime-Regular
+DGS  |=  Parttime-Regular
+DPS  |=  Parttime-Regular

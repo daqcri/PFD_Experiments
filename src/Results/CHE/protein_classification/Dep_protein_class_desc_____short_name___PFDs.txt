@@ -1,0 +1,35 @@
+Coverage =  0.28438228438228436)
+('enzyme  cytochrome p450::0', 'CYP_::0')(Records affected = 78)
+======================================================
+('enzyme  phosphodiesterase::0', 'PDE_::0')(Records affected = 36)
+======================================================
+('enzyme  phosphodiesterase  pde_6::0', 'PDE_6::0')(Records affected = 7)
+======================================================
+('enzyme  cytochrome p450  cyp_1::0', 'CYP_1::0')(Records affected = 6)
+======================================================
+('enzyme  cytochrome p450  cyp_2::0', 'CYP_2::0')(Records affected = 23)
+======================================================
+('enzyme  cytochrome p450  cyp_2  cyp_2c::0', 'CYP_2C::0')(Records affected = 7)
+======================================================
+('enzyme  cytochrome p450  cyp_2  cyp_2d::0', 'CYP_2D::0')(Records affected = 6)
+======================================================
+('enzyme  cytochrome p450  cyp_3::0', 'CYP_3A::0')(Records affected = 6)
+======================================================
+('enzyme  cytochrome p450  cyp_4::0', 'CYP_4::0')(Records affected = 8)
+======================================================
+('transcription factor  nuclear receptor  nr2::0', 'NR2::0')(Records affected = 17)
+======================================================
+('enzyme  cytochrome p450  cyp_11::0', 'CYP_11::0')(Records affected = 6)
+======================================================
+('transcription factor  nuclear receptor  nr3::0', 'NR3::0')(Records affected = 13)
+======================================================
+('transcription factor  nuclear receptor  nr1::0', 'NR1::0')(Records affected = 26)
+======================================================
+('ion channel  lgic  ach::0', 'CHRN ::0')(Records affected = 6)
+======================================================
+('ion channel  other  gap::0', 'GAP::0')(Records affected = 7)
+======================================================
+('transporter  electrochemical  slc::0', 'SLC::0')(Records affected = 55)
+======================================================
+('epigenetic regulator  eraser  hdac::0', 'HDAC::0')(Records affected = 6)
+======================================================

@@ -1,0 +1,45 @@
+Coverage =  0.5466200466200466)
+('Cytochrome P450::0', 'enzyme  cytochrome p450::0')(Records affected = 78)
+======================================================
+('Serine protease::0', 'enzyme  protease  serine::0')(Records affected = 27)
+======================================================
+('Cysteine protease::0', 'enzyme  protease  cysteine::0')(Records affected = 20)
+======================================================
+('Metallo protease::0', 'enzyme  protease  metallo::0')(Records affected = 34)
+======================================================
+('Aspartic protease::0', 'enzyme  protease  aspartic::0')(Records affected = 9)
+======================================================
+('Phosphodiesterase::0', 'enzyme  phosphodiesterase::0')(Records affected = 36)
+======================================================
+('Voltage-gated::0', 'ion channel  vgc::0')(Records affected = 6)
+======================================================
+('Atypical protein kinase::0', 'enzyme  kinase  protein kinase  atypical::0')(Records affected = 12)
+======================================================
+('Tyrosine protein kinase::0', 'enzyme  kinase  protein kinase  tk::0')(Records affected = 27)
+======================================================
+('CMGC protein kinase::0', 'enzyme  kinase  protein kinase  cmgc::0')(Records affected = 32)
+======================================================
+('Other protein kinase::0', 'enzyme  kinase  protein kinase  other::0')(Records affected = 31)
+======================================================
+('AGC protein kinase::0', 'enzyme  kinase  protein kinase  agc::0')(Records affected = 29)
+======================================================
+('Nuclear hormone receptor subfamily 2 group::0', 'transcription factor  nuclear receptor  nr2::0')(Records affected = 16)
+======================================================
+('AGC protein kinase PKC::0', 'enzyme  kinase  protein kinase  agc  pkc::0')(Records affected = 7)
+======================================================
+('CAMK protein kinase::0', 'enzyme  kinase  protein kinase  camk::0')(Records affected = 28)
+======================================================
+('TKL protein kinase::0', 'enzyme  kinase  protein kinase  tkl::0')(Records affected = 18)
+======================================================
+('STE protein kinase::0', 'enzyme  kinase  protein kinase  ste::0')(Records affected = 17)
+======================================================
+('Nuclear hormone receptor subfamily 3 group::0', 'transcription factor  nuclear receptor  nr3::0')(Records affected = 12)
+======================================================
+('Nuclear hormone receptor subfamily 1 group::0', 'transcription factor  nuclear receptor  nr1::0')(Records affected = 25)
+======================================================
+('Nicotinic acetylcholine receptor::0', 'ion channel  lgic  ach  chrn::0')(Records affected = 6)
+======================================================
+('Gap junction protein::0', 'ion channel  other  gap::0')(Records affected = 6)
+======================================================
+('Cytochrome P450 family::0', 'enzyme  cytochrome p450::0')(Records affected = 35)
+======================================================

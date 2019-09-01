@@ -1,0 +1,13 @@
+Coverage =  0.7688758389261745)
+('PubMed::0', 'http://europepmc.org/abstract/MED/::0')(Records affected = 5934)
+======================================================
+('DailyMed::0', 'http://::0')(Records affected = 1015)
+======================================================
+('ISBN::0', 'http://www.isbnsearch.org/isbn/::0')(Records affected = 301)
+======================================================
+('IUPHAR::0', 'http://www.iuphar-db.org/DATABASE/LigandDisplayForward?tab=biology&ligandId=::0')(Records affected = 16)
+======================================================
+('PMC::0', 'http://::0')(Records affected = 37)
+======================================================
+('ClinicalTrials::0', 'https://::0')(Records affected = 29)
+======================================================

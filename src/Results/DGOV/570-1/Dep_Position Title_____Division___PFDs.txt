@@ -1,0 +1,111 @@
+Coverage =  0.18437534336886058)
+('Resident Supervisor II::0', 'PRRS Facility and Security::0')(Records affected = 22)
+======================================================
+('Electrician::0', 'Facilities Maintenance::0')(Records affected = 9)
+======================================================
+('Bus Operator::0', 'Transit::0')(Records affected = 623)
+======================================================
+('Crossing Guard::0', 'FSB Traffic Division School Safety Section::0')(Records affected = 161)
+======================================================
+('Mechanic Technician II::0', 'Fleet::0')(Records affected = 111)
+======================================================
+('Alcohol/Tobacco Enforcement Specialist II::0', 'Licensure, Regulation and Education::0')(Records affected = 6)
+======================================================
+('Public Safety Communications Supervisor::0', 'MSB Communications Division::0')(Records affected = 13)
+======================================================
+('Highway Inspector II::0', 'Highway::0')(Records affected = 10)
+======================================================
+('Equipment Operator I::0', 'Highway Services::0')(Records affected = 107)
+======================================================
+('Correctional Health Nurse II::0', 'DS Health Services::0')(Records affected = 18)
+======================================================
+('Housing Code Inspector III::0', 'Housing Code Enforcement::0')(Records affected = 22)
+======================================================
+('Transportation Systems Technician III::0', 'Transportation Technical Center::0')(Records affected = 10)
+======================================================
+('Traffic Enforcement Field Service Technician II::0', 'FSB Traffic Division Automated Traffic Enforcement Section::0')(Records affected = 14)
+======================================================
+('Security Officer::0', 'FSB Security Services Division::0')(Records affected = 37)
+======================================================
+('Building Services Worker II::0', 'Facilities Maintenance::0')(Records affected = 21)
+======================================================
+('Equipment Operator II::0', 'Highway Services::0')(Records affected = 22)
+======================================================
+('Correctional Supervisor (Sergeant)::0', 'DS::0')(Records affected = 44)
+======================================================
+('Legislative Senior Aide III::0', 'Council Members and Staff::0')(Records affected = 28)
+======================================================
+('Transit Operations Supervisor::0', 'Transit::0')(Records affected = 19)
+======================================================
+('Correctional Dietary Officer II::0', 'DS Food Services::0')(Records affected = 15)
+======================================================
+('Emergency Vehicle Maintenance Crew Chief::0', 'Fleet::0')(Records affected = 6)
+======================================================
+('Emergency Vehicle Mechanic Technician II::0', 'Fleet::0')(Records affected = 7)
+======================================================
+('Work Force Leader IV::0', 'Highway Services::0')(Records affected = 9)
+======================================================
+('Resident Supervisor III::0', 'PRRS Facility and Security::0')(Records affected = 6)
+======================================================
+('Transit Coordinator::0', 'Transit::0')(Records affected = 35)
+======================================================
+('School Health Room Technician II::0', 'School Health Services::0')(Records affected = 11)
+======================================================
+('Refuse Disposal Cashier::0', 'Solid Waste Services Operations::0')(Records affected = 6)
+======================================================
+('Customer Service Representative II::0', 'MC311::0')(Records affected = 19)
+======================================================
+('Plumber::0', 'Facilities Maintenance::0')(Records affected = 6)
+======================================================
+('Safety and Training Instructor::0', 'Transit Safety and Instruction::0')(Records affected = 12)
+======================================================
+('Correctional Shift Commander (Lieutenant)::0', 'DS::0')(Records affected = 19)
+======================================================
+('Council Member::0', 'Council Members and Staff::0')(Records affected = 8)
+======================================================
+('Mail Clerk::0', 'Central Duplicating::0')(Records affected = 7)
+======================================================
+('Animal Care Attendant::0', 'FSB Animal Services Division::0')(Records affected = 13)
+======================================================
+('Background Screening Specialist::0', 'MSB Personnel Division Background Section::0')(Records affected = 9)
+======================================================
+('Child Welfare Caseworker::0', 'Child Welfare Services::0')(Records affected = 6)
+======================================================
+('Deputy Sheriff Candidate::0', 'Administration::0')(Records affected = 7)
+======================================================
+('Correctional Records Technician::0', 'DS Inmate Records::0')(Records affected = 9)
+======================================================
+('Forensics Specialist I::0', 'ISB Criminal Investigations Division Forensic Services Section::0')(Records affected = 10)
+======================================================
+('Supply Technician III::0', 'Fleet Management Services::0')(Records affected = 18)
+======================================================
+('Procurement Specialist IV::0', 'Procurement Operations Section::0')(Records affected = 18)
+======================================================
+('Crime Analyst::0', 'ISB Criminal Investigations Division::0')(Records affected = 9)
+======================================================
+('Security Officer I::0', 'FSB Security Services Division::0')(Records affected = 26)
+======================================================
+('Forensic Scientist::0', 'ISB Criminal Investigations Division Crime Laboratory Section::0')(Records affected = 9)
+======================================================
+('Security Officer III (Sergeant)::0', 'FSB Security Services Division::0')(Records affected = 6)
+======================================================
+('HVAC Mechanic I::0', 'Facilities Maintenance::0')(Records affected = 12)
+======================================================
+('Transit Communications Supervisor::0', 'Transit Central Communication::0')(Records affected = 10)
+======================================================
+('Legislative Services Coordinator::0', 'Council Central Staff::0')(Records affected = 7)
+======================================================
+('Equipment Operator III::0', 'Highway Services::0')(Records affected = 10)
+======================================================
+('Equipment Maintenance Crew Chief::0', 'Fleet::0')(Records affected = 20)
+======================================================
+('Confidential Aide::0', 'Council Members and Staff::0')(Records affected = 9)
+======================================================
+('Police Officer Candidate::0', 'MSB Training and Education Division::0')(Records affected = 18)
+======================================================
+('Printing Technician III::0', 'Central Duplicating::0')(Records affected = 6)
+======================================================
+('Motor Pool Attendant::0', 'Transit::0')(Records affected = 9)
+======================================================
+('Water Quality Specialist II::0', 'Water Quality Monitoring and Planning::0')(Records affected = 6)
+======================================================

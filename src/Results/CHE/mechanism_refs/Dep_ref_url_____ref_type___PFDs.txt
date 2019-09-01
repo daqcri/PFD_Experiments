@@ -1,0 +1,363 @@
+Coverage =  0.39125419463087246)
+('http://europepmc.org/abstract/MED/18336310::0', 'PubMed::0')(Records affected = 14)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=::0', 'DailyMed::0')(Records affected = 924)
+======================================================
+('http://www.isbnsearch.org/isbn/9780702034718::0', 'ISBN::0')(Records affected = 179)
+======================================================
+('http://en.wikipedia.org/wiki/::0', 'Wikipedia::0')(Records affected = 659)
+======================================================
+('http://europepmc.org/abstract/MED/16465186::0', 'PubMed::0')(Records affected = 13)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/17106s032lbl.pdf::0', 'FDA::0')(Records affected = 6)
+======================================================
+('http://en.wikipedia.org/wiki/Atropine::0', 'Wikipedia::0')(Records affected = 6)
+======================================================
+('http://chembl.blogspot.co.uk/search?q=::0', 'Expert::0')(Records affected = 31)
+======================================================
+('http://www.iuphar-db.org/DATABASE/LigandDisplayForward?tab=biology&ligandId=::0', 'IUPHAR::0')(Records affected = 15)
+======================================================
+('http://europepmc.org/abstract/MED/11980628::0', 'PubMed::0')(Records affected = 8)
+======================================================
+('http://europepmc.org/abstract/MED/22397653::0', 'PubMed::0')(Records affected = 8)
+======================================================
+('http://www.isbnsearch.org/isbn/9781889788852::0', 'ISBN::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/10768292::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21628112-0c47-11df-95b3-498d55d89593#nlm34090-1::0', 'DailyMed::0')(Records affected = 6)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/::0', 'FDA::0')(Records affected = 55)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/::0', 'FDA::0')(Records affected = 26)
+======================================================
+('http://en.wikipedia.org/wiki/Type_II_topoisomerase::0', 'Wikipedia::0')(Records affected = 8)
+======================================================
+('http://en.wikipedia.org/wiki/Daunorubicin::0', 'Wikipedia::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/11873706::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://en.wikipedia.org/wiki/Antipsychotic#Mechanism_of_action::0', 'Wikipedia::0')(Records affected = 19)
+======================================================
+('http://www.isbnsearch.org/isbn/0443059748::0', 'ISBN::0')(Records affected = 82)
+======================================================
+('http://www.kegg.jp/dbget-bin/www_bget?dr:D07445::0', 'KEGG::0')(Records affected = 8)
+======================================================
+('http://europepmc.org/abstract/MED/14967191::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://en.wikipedia.org/wiki/Penicillin_binding_proteins#Function::0', 'Wikipedia::0')(Records affected = 15)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/::0', 'FDA::0')(Records affected = 86)
+======================================================
+('http://europepmc.org/abstract/MED/19217209::0', 'PubMed::0')(Records affected = 8)
+======================================================
+('http://en.wikipedia.org/wiki/Trimipramine::0', 'Wikipedia::0')(Records affected = 6)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f5b7b3a4-c3a4-4722-8ca5-8f6a5c622553#section-14::0', 'DailyMed::0')(Records affected = 8)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c#section-14::0', 'DailyMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/19948186::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://en.wikipedia.org/wiki/Decongestant::0', 'Wikipedia::0')(Records affected = 7)
+======================================================
+('http://en.wikipedia.org/wiki/Adrenergic_agonist::0', 'Wikipedia::0')(Records affected = 7)
+======================================================
+('http://en.wikipedia.org/wiki/Adrenergic_receptor::0', 'Wikipedia::0')(Records affected = 7)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/::0', 'FDA::0')(Records affected = 13)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=::0', 'DailyMed::0')(Records affected = 13)
+======================================================
+('http://www.isbnsearch.org/isbn/0865778434::0', 'ISBN::0')(Records affected = 8)
+======================================================
+('http://chembl.blogspot.co.uk/search?q=REGORAFENIB::0', 'Expert::0')(Records affected = 13)
+======================================================
+('http://www.nejm.org/doi/full/10.1056/NEJMra0907219::0', 'DOI::0')(Records affected = 18)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021923s012lbl.pdf::0', 'FDA::0')(Records affected = 7)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/::0', 'FDA::0')(Records affected = 20)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/::0', 'FDA::0')(Records affected = 48)
+======================================================
+('http://europepmc.org/articles/::0', 'PMC::0')(Records affected = 24)
+======================================================
+('http://europepmc.org/abstract/MED/17015232::0', 'PubMed::0')(Records affected = 12)
+======================================================
+('http://en.wikipedia.org/wiki/Chlorpromazine::0', 'Wikipedia::0')(Records affected = 6)
+======================================================
+('http://www.isbnsearch.org/isbn/0471948470::0', 'ISBN::0')(Records affected = 12)
+======================================================
+('http://en.wikipedia.org/wiki/Haloperidol::0', 'Wikipedia::0')(Records affected = 6)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c03ca62-5dd5-4cf5-abc7-b0c2873503dd#nlm34090-1::0', 'DailyMed::0')(Records affected = 6)
+======================================================
+('http://en.wikipedia.org/wiki/Estrogen_receptor::0', 'Wikipedia::0')(Records affected = 8)
+======================================================
+('http://en.wikipedia.org/wiki/DNA_methylation::0', 'Wikipedia::0')(Records affected = 7)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc7f0af-77fb-4eec-46b9-dd1c2dcb4525#section-13::0', 'DailyMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/16895953::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/17038445::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/::0', 'FDA::0')(Records affected = 7)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/::0', 'FDA::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/20370419::0', 'PubMed::0')(Records affected = 12)
+======================================================
+('http://europepmc.org/abstract/MED/17199549::0', 'PubMed::0')(Records affected = 12)
+======================================================
+('http://europepmc.org/abstract/MED/20592239::0', 'PubMed::0')(Records affected = 13)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3105a84b-655e-4940-9d11-4209cdb05d6b::0', 'DailyMed::0')(Records affected = 12)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=25b2fdbe-2f18-4153-835a-7a67bff83ef8::0', 'DailyMed::0')(Records affected = 8)
+======================================================
+('http://en.wikipedia.org/wiki/Theophylline#Mechanisms_of_action::0', 'Wikipedia::0')(Records affected = 12)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/::0', 'FDA::0')(Records affected = 9)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/::0', 'FDA::0')(Records affected = 13)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/::0', 'FDA::0')(Records affected = 6)
+======================================================
+('http://en.wikipedia.org/wiki/L-type_calcium_channel::0', 'Wikipedia::0')(Records affected = 9)
+======================================================
+('http://en.wikipedia.org/wiki/Voltage-dependent_calcium_channel::0', 'Wikipedia::0')(Records affected = 9)
+======================================================
+('http://europepmc.org/abstract/MED/15208697::0', 'PubMed::0')(Records affected = 9)
+======================================================
+('http://europepmc.org/abstract/MED/13678839::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/7447421::0', 'PubMed::0')(Records affected = 17)
+======================================================
+('http://europepmc.org/abstract/MED/19417616::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/::0', 'FDA::0')(Records affected = 73)
+======================================================
+('http://europepmc.org/abstract/MED/16402123::0', 'PubMed::0')(Records affected = 38)
+======================================================
+('http://europepmc.org/abstract/MED/16973644::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/21788314::0', 'PubMed::0')(Records affected = 9)
+======================================================
+('http://europepmc.org/abstract/MED/22226507::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/11264449::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/7486915::0', 'PubMed::0')(Records affected = 8)
+======================================================
+('http://europepmc.org/abstract/MED/18506437::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/20876130::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/17227289::0', 'PubMed::0')(Records affected = 22)
+======================================================
+('http://europepmc.org/abstract/MED/11605899::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/8799190::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/15635807::0', 'PubMed::0')(Records affected = 11)
+======================================================
+('http://europepmc.org/abstract/MED/23205958::0', 'PubMed::0')(Records affected = 8)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=073201aa-556d-4a70-918e-84e9616fd88d#nlm34090-1::0', 'DailyMed::0')(Records affected = 6)
+======================================================
+('http://onlinelibrary.wiley.com/doi/::0', 'DOI::0')(Records affected = 7)
+======================================================
+('https://www.accessdata.fda.gov/drugsatfda_docs/label/::0', 'FDA::0')(Records affected = 41)
+======================================================
+('http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=::0', 'Other::0')(Records affected = 12)
+======================================================
+('http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=::0', 'DailyMed::0')(Records affected = 30)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/::0', 'FDA::0')(Records affected = 104)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/022549s000lbl.pdf::0', 'FDA::0')(Records affected = 9)
+======================================================
+('http://europepmc.org/abstract/MED/16891463::0', 'PubMed::0')(Records affected = 8)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/022472s006s008lbl.pdf::0', 'FDA::0')(Records affected = 25)
+======================================================
+('http://www.dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=::0', 'DailyMed::0')(Records affected = 47)
+======================================================
+('http://www.dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=69731::0', 'DailyMed::0')(Records affected = 6)
+======================================================
+('http://www.casipharmaceuticals.com/files/enmd_corporate_april_2008.pdf::0', 'Other::0')(Records affected = 13)
+======================================================
+('http://www.arraybiopharma.com/product-pipeline/other-compounds/arry-::0', 'Other::0')(Records affected = 7)
+======================================================
+('http://www.roche.com/::0', 'Other::0')(Records affected = 12)
+======================================================
+('https://www.pfizer.com/files/::0', 'Other::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/24833295::0', 'PubMed::0')(Records affected = 9)
+======================================================
+('http://www.exelixis.com/pipeline/::0', 'Other::0')(Records affected = 11)
+======================================================
+('https://ncats.nih.gov/files/::0', 'Other::0')(Records affected = 6)
+======================================================
+('http://www.cancer.gov/publications/dictionaries/cancer-drug?cdrid=::0', 'Other::0')(Records affected = 34)
+======================================================
+('http://www.novartisoncology.com/ct/pipelineDetails?compound=::0', 'Other::0')(Records affected = 6)
+======================================================
+('http://meetinglibrary.asco.org/content/::0', 'Other::0')(Records affected = 15)
+======================================================
+('http://europepmc.org/abstract/MED/21875414::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/26345296::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/23617957::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://cancerres.aacrjournals.org/content/70/8_Supplement/::0', 'DOI::0')(Records affected = 6)
+======================================================
+('http://adisinsight.springer.com/drugs/::0', 'Other::0')(Records affected = 24)
+======================================================
+('https://www.clinicaltrials.gov/ct2/show/::0', 'ClinicalTrials::0')(Records affected = 26)
+======================================================
+('http://openinnovation.astrazeneca.com/what-we-offer/compound/::0', 'Other::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/19568282::0', 'PubMed::0')(Records affected = 14)
+======================================================
+('http://cancerres.aacrjournals.org/content/69/9_Supplement/::0', 'Other::0')(Records affected = 8)
+======================================================
+('http://cancerres.aacrjournals.org/content/75/15_Supplement/::0', 'DOI::0')(Records affected = 11)
+======================================================
+('http://europepmc.org/abstract/MED/25215591::0', 'PubMed::0')(Records affected = 20)
+======================================================
+('http://www.tyrogenex.com/wordpress/wp-content/uploads/Oral-X-82-for-wet-AMD-ARVO-2013.pdf::0', 'Other::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/25110867::0', 'PubMed::0')(Records affected = 9)
+======================================================
+('http://europepmc.org/abstract/MED/15705718::0', 'PubMed::0')(Records affected = 16)
+======================================================
+('http://europepmc.org/abstract/MED/20823884::0', 'PubMed::0')(Records affected = 9)
+======================================================
+('http://www.sciencedirect.com/science/article/pii/S135963491071870X::0', 'DOI::0')(Records affected = 9)
+======================================================
+('http://www.lillyoncologypipeline.com/::0', 'Other::0')(Records affected = 8)
+======================================================
+('http://www.ecmcnetwork.org.uk/sites/default/files/::0', 'Other::0')(Records affected = 6)
+======================================================
+('http://www.google.com/patents/::0', 'Other::0')(Records affected = 8)
+======================================================
+('http://europepmc.org/abstract/MED/23587417::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/23807770::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/25806189::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/21860433::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://www.exelixis.com/sites/default/files/pdf/::0', 'Other::0')(Records affected = 16)
+======================================================
+('http://www.ncbi.nlm.nih.gov/pubmed/?term=16654164::0', 'PubMed::0')(Records affected = 15)
+======================================================
+('http://europepmc.org/abstract/MED/21553286::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/24900658::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://cancerres.aacrjournals.org/content/71/8_Supplement/::0', 'DOI::0')(Records affected = 11)
+======================================================
+('http://europepmc.org/abstract/MED/25060923::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('https://en.wikipedia.org/wiki/::0', 'Wikipedia::0')(Records affected = 41)
+======================================================
+('http://europepmc.org/abstract/MED/21919481::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://www.ema.europa.eu/::0', 'Other::0')(Records affected = 20)
+======================================================
+('http://arraybiopharma.com/::0', 'Other::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/19143567::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/21177375::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/22397360::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/19808973::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://www.exelixis.com/pipeline/xl880::0', 'Other::0')(Records affected = 6)
+======================================================
+('http://cancerres.aacrjournals.org/content/71/8_Supplement/3604::0', 'DOI::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/24043137::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/18311895::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/18330892::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/18483622::0', 'PubMed::0')(Records affected = 7)
+======================================================
+('http://europepmc.org/abstract/MED/12892559::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7907::0', 'Other::0')(Records affected = 6)
+======================================================
+('https://www.google.com/patents/US20100144788::0', 'Other::0')(Records affected = 7)
+======================================================
+('http://en.wikipedia.org/wiki/Tedatioxetine::0', 'Wikipedia::0')(Records affected = 7)
+======================================================
+('http://books.google.co.uk/books?id=qoyYobgX0uwC&pg=PA105&redir_esc=y#v=onepage&q&f=false::0', 'Other::0')(Records affected = 7)
+======================================================
+('http://www.ncats.nih.gov/files/::0', 'Other::0')(Records affected = 6)
+======================================================
+('http://www.ncbi.nlm.nih.gov/pmc/articles/::0', 'PMC::0')(Records affected = 13)
+======================================================
+('http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/::0', 'Other::0')(Records affected = 9)
+======================================================
+('http://europepmc.org/abstract/MED/15217973::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/::0', 'FDA::0')(Records affected = 24)
+======================================================
+('http://www.dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=215669::0', 'DailyMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/18040043::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/::0', 'Other::0')(Records affected = 6)
+======================================================
+('https://www.cancer.gov/publications/dictionaries/cancer-drug?cdrid=::0', 'Other::0')(Records affected = 46)
+======================================================
+('http://europepmc.org/abstract/MED/18931344::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/16645636::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/19553639::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/::0', 'FDA::0')(Records affected = 36)
+======================================================
+('http://www.dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=143101::0', 'DailyMed::0')(Records affected = 6)
+======================================================
+('http://www.creativebiolabs.net/Anti-::0', 'Other::0')(Records affected = 8)
+======================================================
+('http://en.pharmacodia.com/::0', 'Other::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/3954800::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/6890359::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/8904622::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/8494598::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/2975224::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/2586634::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/15975049::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/9626215::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/11979428::0', 'PubMed::0')(Records affected = 6)
+======================================================
+('http://europepmc.org/abstract/MED/6425901::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/3836113::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/10052979::0', 'PubMed::0')(Records affected = 10)
+======================================================
+('http://europepmc.org/abstract/MED/1361012::0', 'PubMed::0')(Records affected = 10)
+======================================================

@@ -1,0 +1,211 @@
+Coverage =  0.14130315349961542)
+('PRRS Facility and Security::0', 'Resident Supervisor::0')(Records affected = 29)
+======================================================
+('ETSD Telephone Services::0', 'Telecommunications::0')(Records affected = 6)
+======================================================
+('Courthouse Security::0', 'Deputy Sheriff::0')(Records affected = 10)
+======================================================
+('DS MCCF Unit 3 Security::0', 'Correctional::0')(Records affected = 70)
+======================================================
+('Clarksburg Village::0', 'Liquor Store::0')(Records affected = 7)
+======================================================
+('Flower Avenue::0', 'Liquor Store::0')(Records affected = 8)
+======================================================
+('Goshen Crossing::0', 'Liquor Store::0')(Records affected = 9)
+======================================================
+('DS MCDC Custody and Security::0', 'Correctional::0')(Records affected = 81)
+======================================================
+('Walnut Hill::0', 'Liquor Store::0')(Records affected = 10)
+======================================================
+('Milestone::0', 'Liquor Store::0')(Records affected = 8)
+======================================================
+('Countywide Programs Therapeutics::0', 'Recreation::0')(Records affected = 8)
+======================================================
+('Seneca Meadows::0', 'Liquor Store::0')(Records affected = 8)
+======================================================
+('Court and Transport::0', 'Deputy Sheriff::0')(Records affected = 52)
+======================================================
+('ISB Major Crimes Division Victim Witness Assistance Section::0', 'Client Assistance Specialist::0')(Records affected = 6)
+======================================================
+('ESOD Public Safety Data Support::0', 'Senior Information Technology Specialist::0')(Records affected = 8)
+======================================================
+('MSB Information Mgmt and Tech Division Warrant Control Section::0', 'Police Aide::0')(Records affected = 6)
+======================================================
+('PSB 4th District Special Assignment Team::0', 'Police::0')(Records affected = 8)
+======================================================
+('Team 3 Commercial Building, Life Safety, Structural and Accessibility::0', 'Senior Permitting Services Specialist::0')(Records affected = 10)
+======================================================
+('Transportation Property Acquisition Section::0', 'Real Estate Specialist III::0')(Records affected = 6)
+======================================================
+('DS MCCF Unit 2 Security::0', 'Correctional::0')(Records affected = 62)
+======================================================
+('Liquor and Wine Warehouse Operations::0', 'Warehouse Worker::0')(Records affected = 17)
+======================================================
+('PSB 4th District Community Action Team::0', 'Police Officer III::0')(Records affected = 6)
+======================================================
+('Muddy Branch::0', 'Liquor Store::0')(Records affected = 9)
+======================================================
+('Aging and Disability Resource Unit::0', 'Client Assistance Specialist::0')(Records affected = 9)
+======================================================
+('FSB Special Operations Division Tactical Operations Section::0', 'Police::0')(Records affected = 15)
+======================================================
+('FSB Traffic Division Alcohol Initiatives Section::0', 'Police::0')(Records affected = 7)
+======================================================
+('ISB Criminal Investigations Division 1st District Investigative Section::0', 'Police::0')(Records affected = 7)
+======================================================
+('PSB 4th District Station::0', 'Police::0')(Records affected = 8)
+======================================================
+('DS MCCF Unit 1 Security::0', 'Correctional::0')(Records affected = 65)
+======================================================
+('Service Coordination and Individual Support Services::0', 'Program Specialist II::0')(Records affected = 7)
+======================================================
+('Team 2 Residential Inspection::0', 'Permitting and Code Enforcement Inspector III::0')(Records affected = 16)
+======================================================
+('HQ Office of the Chief Internal Affairs Division::0', 'Police::0')(Records affected = 9)
+======================================================
+('Property Management::0', 'Property Manager II::0')(Records affected = 7)
+======================================================
+('Northern Region::0', 'Recreation::0')(Records affected = 8)
+======================================================
+('Kingsview::0', 'Liquor Store::0')(Records affected = 8)
+======================================================
+('PRRS Reentry Services and Programs::0', 'Correctional Specialist III::0')(Records affected = 9)
+======================================================
+('ISB Major Crimes Division Homicide and Sex Section::0', 'Police::0')(Records affected = 14)
+======================================================
+('Records Management::0', 'Administrative Specialist I::0')(Records affected = 6)
+======================================================
+('Countywide Programs Sports::0', 'Recreation::0')(Records affected = 11)
+======================================================
+('Transit Safety and Instruction::0', 'Safety and Training::0')(Records affected = 15)
+======================================================
+('PSB 1st District Community Action Team::0', 'Police::0')(Records affected = 6)
+======================================================
+('Capital Budget Management::0', 'Senior Management and Budget Specialist::0')(Records affected = 6)
+======================================================
+('EASD Geographic Information System::0', 'Senior Information Technology Specialist::0')(Records affected = 9)
+======================================================
+('PSB 3rd District Special Assignment Team::0', 'Police::0')(Records affected = 8)
+======================================================
+('ISB Criminal Investigations Division 3rd District Investigative Section::0', 'Police::0')(Records affected = 10)
+======================================================
+('Zoning, Land Use and Economic Development::0', 'Assistant County Attorney III::0')(Records affected = 7)
+======================================================
+('Fourth Battalion - Administration::0', 'Fire/Rescue::0')(Records affected = 14)
+======================================================
+('Field Recruits::0', 'Firefighter/Rescuer III::0')(Records affected = 36)
+======================================================
+('Housing Landlord and Tenant Mediation::0', 'Investigator III::0')(Records affected = 7)
+======================================================
+('Second Battalion - Administration::0', 'Fire/Rescue::0')(Records affected = 16)
+======================================================
+('DS MCCF Case Managers Unit::0', 'Correctional Specialist::0')(Records affected = 10)
+======================================================
+('Darnestown::0', 'Liquor Store::0')(Records affected = 9)
+======================================================
+('Montrose::0', 'Liquor Store::0')(Records affected = 10)
+======================================================
+('PSB 4th District Traffic Squad::0', 'Police::0')(Records affected = 8)
+======================================================
+('MSB Personnel Division Background Section::0', 'Background Screening Specialist::0')(Records affected = 10)
+======================================================
+('DS Intake Classification and Re-Entry Services::0', 'Correctional::0')(Records affected = 7)
+======================================================
+('Fire and Explosive Investigations::0', 'Fire/Rescue::0')(Records affected = 13)
+======================================================
+('First Battalion - Administration::0', 'Fire/Rescue::0')(Records affected = 16)
+======================================================
+('PSB 1st District Traffic Squad::0', 'Police::0')(Records affected = 9)
+======================================================
+('PSB 3rd District Community Action Team::0', 'Police::0')(Records affected = 6)
+======================================================
+('FSB Traffic Division Collision Reconstruction::0', 'Police::0')(Records affected = 10)
+======================================================
+('DS MCDC Central Processing Unit::0', 'Correctional::0')(Records affected = 20)
+======================================================
+('PSB 5th District Station::0', 'Police::0')(Records affected = 7)
+======================================================
+('Pike::0', 'Liquor Store::0')(Records affected = 9)
+======================================================
+('PSB 5th District Traffic Squad::0', 'Police::0')(Records affected = 6)
+======================================================
+('PSB 2nd District Special Assignment Team::0', 'Police Officer III::0')(Records affected = 7)
+======================================================
+('Child Support::0', 'Deputy Sheriff::0')(Records affected = 7)
+======================================================
+('PSB 1st District Station::0', 'Police::0')(Records affected = 6)
+======================================================
+('Fifth Battalion - Administration::0', 'Fire/Rescue::0')(Records affected = 17)
+======================================================
+('Cloverly::0', 'Liquor Store::0')(Records affected = 8)
+======================================================
+('Land Development Permit Processing::0', 'Permit Technician III::0')(Records affected = 9)
+======================================================
+('Chevy Chase Center::0', 'Liquor Store Clerk::0')(Records affected = 8)
+======================================================
+('Hampden Lane::0', 'Liquor Store::0')(Records affected = 8)
+======================================================
+('Land Development Sediment Stormwater Plan Review::0', 'Senior Permitting Services Specialist::0')(Records affected = 9)
+======================================================
+('PTS Supervision::0', 'Correctional::0')(Records affected = 13)
+======================================================
+('ISB Major Crimes Division Robbery Section::0', 'Police::0')(Records affected = 12)
+======================================================
+('Technology Management::0', 'Information Technology::0')(Records affected = 8)
+======================================================
+('Registration Services::0', 'Office Services Coordinator::0')(Records affected = 6)
+======================================================
+('PSB 3rd District Traffic Squad::0', 'Police::0')(Records affected = 8)
+======================================================
+('Land Development Right-of-Way Inspection::0', 'Permitting and Code Enforcement Inspector III::0')(Records affected = 9)
+======================================================
+('Youth Development Your Sports/Activities::0', 'Recreation::0')(Records affected = 11)
+======================================================
+('PSB 2nd District Traffic Squad::0', 'Police::0')(Records affected = 8)
+======================================================
+('Building Construction Permit Processing::0', 'Permit Technician III::0')(Records affected = 12)
+======================================================
+('ISB Criminal Investigations Division 2nd District Investigative Section::0', 'Police Officer III::0')(Records affected = 7)
+======================================================
+('PSB 1st District Special Assignment Team::0', 'Police::0')(Records affected = 7)
+======================================================
+('PSB 5th District Community Action Team::0', 'Police::0')(Records affected = 7)
+======================================================
+('Nursing Home Inspections::0', 'Community Health Nurse II::0')(Records affected = 6)
+======================================================
+('Scheduling Team::0', 'Program Specialist::0')(Records affected = 14)
+======================================================
+('Land Development Sediment and Stormwater Inspection::0', 'Permitting and Code Enforcement Inspector III::0')(Records affected = 14)
+======================================================
+('Human Resources and Appeals::0', 'Assistant County Attorney III::0')(Records affected = 8)
+======================================================
+('PSB 3rd District Station::0', 'Police::0')(Records affected = 12)
+======================================================
+('Customer Information::0', 'Permit Technician III::0')(Records affected = 6)
+======================================================
+('PSB 6th District Traffic Squad::0', 'Police::0')(Records affected = 6)
+======================================================
+('Leisure World::0', 'Liquor Store::0')(Records affected = 10)
+======================================================
+('Land Development Right-of-Way Plan Review::0', 'Senior Permitting Services Specialist::0')(Records affected = 9)
+======================================================
+('Operating Budget Management::0', 'Senior Management and Budget Specialist::0')(Records affected = 7)
+======================================================
+('PSB 2nd District Station::0', 'Police::0')(Records affected = 10)
+======================================================
+('Fallsgrove::0', 'Liquor Store::0')(Records affected = 9)
+======================================================
+('ISB Criminal Investigations Division 6th District Investigative Section::0', 'Police::0')(Records affected = 8)
+======================================================
+('Westwood::0', 'Liquor Store::0')(Records affected = 10)
+======================================================
+('Marketing and Business Development::0', 'Senior Business Development Specialist::0')(Records affected = 9)
+======================================================
+('PSB 5th District Special Assignment Team::0', 'Police::0')(Records affected = 8)
+======================================================
+('PSB 4th District Educational Facilities Officers::0', 'Police Officer III::0')(Records affected = 6)
+======================================================
+('PSB 6th District Station::0', 'Police::0')(Records affected = 7)
+======================================================
+('Burtonsville::0', 'Liquor Store::0')(Records affected = 6)
+======================================================

@@ -1,0 +1,81 @@
+Coverage =  0.265552460538533)
+('COLESVILLE ROAD\nSILVER SPRING, MD::2', 'On::0')(Records affected = 16)
+======================================================
+('CROWN PARK::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('RIVER ROAD::2', 'On::0')(Records affected = 10)
+======================================================
+('BETHESDA::2', 'On::0')(Records affected = 18)
+======================================================
+('DARNESTOWN ROAD::2', 'On::0')(Records affected = 10)
+======================================================
+('RIVER ROAD\nPOTOMAC, MD 20854::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('OLD COLUMBIA PIKE\nBURTONSVILLE, MD 20866\n(::2', 'On Premise::0')(Records affected = 8)
+======================================================
+('TUCKERMAN LANE\nPOTOMAC, MD 20854\n(::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('SHADY GROVE ROAD::2', 'On Premise::0')(Records affected = 11)
+======================================================
+('FENTON STREET\nSILVER SPRING, MD 20910\n(::2', 'On::0')(Records affected = 11)
+======================================================
+('CENTURY BLVD\nGERMANTOWN, MD 20874\n(::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('GIBBS STREET::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('FALLS::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('ENNALLS AVE\nSILVER SPRING, MD 20902\n(::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('OLNEY SANDY SPRING ROAD::2', 'On::0')(Records affected = 7)
+======================================================
+('COLESVILLE ROAD\nSILVER SPRING, MD 20910\n(::2', 'On Premise::0')(Records affected = 12)
+======================================================
+('WOODMONT AVE::2', 'On::0')(Records affected = 14)
+======================================================
+('CORDELL AVENUE\nBETHESDA, MD 20814\n(::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('NORFOLK::2', 'On Premise::0')(Records affected = 11)
+======================================================
+('GRANDVIEW AVE::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('ELLSWORTH DRIVE\nSILVER SPRING, MD 20910\n(::2', 'On Premise::0')(Records affected = 10)
+======================================================
+('CORDELL AVE\nBETHESDA, MD 20814\n(::2', 'On Premise::0')(Records affected = 14)
+======================================================
+('SLIGO::2', 'On::0')(Records affected = 8)
+======================================================
+('WOODMONT AVE\nBETHESDA, MD 20814\n(::2', 'On::0')(Records affected = 13)
+======================================================
+('TRAVILLE GATEWAY::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('SHADY GROVE ROAD\nGAITHERSBURG, MD 20877\n(::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('DEMOCRACY BOULEVARD\nBETHESDA, MD 20817\n(39.0242, -77.1459)::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('UNIVERSITY BLVD, WEST\nSILVER SPRING, MD 20902\n(::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('MUDDY BRANCH ROAD\nGAITHERSBURG, MD 20878\n(::2', 'On::0')(Records affected = 10)
+======================================================
+('BETHESDA AVE\nBETHESDA, MD 20814\n(::2', 'On::0')(Records affected = 8)
+======================================================
+('NORFOLK AVE\nBETHESDA, MD 20814\n(::2', 'On Premise::0')(Records affected = 8)
+======================================================
+('LAYHILL ROAD\nSILVER SPRING, MD 20906\n(::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('MAIN STREET\nGAITHERSBURG, MD 20878\n(::2', 'On::0')(Records affected = 6)
+======================================================
+('WISCONSIN AVENUE::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('GEORGIA AVENUE\nSILVER SPRING, MD 20910\n(::2', 'On Premise::0')(Records affected = 8)
+======================================================
+('NORTH FREDERICK AVE::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('FREDERICK ROAD\nGERMANTOWN, MD 20876\n(::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('E.::2', 'On Premise::0')(Records affected = 7)
+======================================================
+('CONNECTICUT AVE\nCHEVY CHASE, MD 20815\n(::2', 'On Premise::0')(Records affected = 6)
+======================================================
+('KENTLANDS BLVD::2', 'On::0')(Records affected = 6)
+======================================================

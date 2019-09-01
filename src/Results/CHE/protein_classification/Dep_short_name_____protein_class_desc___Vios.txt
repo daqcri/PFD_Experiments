@@ -1,0 +1,4 @@
+Steroid-like ligand receptor  |=  membrane receptor  7tm1  smallmol  lipid-like ligand receptor  steroid-like ligand receptor
+CHROMO  |=  epigenetic regulator  reader  methyl-lysine  chromo
+CYP_3  |=  enzyme  cytochrome p450  cyp_3
+Neurotransmitter  |=  membrane receptor  7tm3  smallmol  neurotransmitter

@@ -1,0 +1,5 @@
+Coverage =  0.2191780821917808)
+('OTHER::0', 'http://www.accessdata.fda.gov/drugsatfda_docs/nda/::0')(Records affected = 115)
+======================================================
+('FDA::0', 'label/::0')(Records affected = 413)
+======================================================

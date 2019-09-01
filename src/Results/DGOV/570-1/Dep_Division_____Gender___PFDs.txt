@@ -1,0 +1,259 @@
+Coverage =  0.19986814635754313)
+('Head Start::0', 'F::0')(Records affected = 10)
+======================================================
+('EASD -::0', 'M::0')(Records affected = 7)
+======================================================
+('Community Support Network for People with Disabilities::0', 'F::0')(Records affected = 9)
+======================================================
+('Fleet Management Fleet Services::0', 'M::0')(Records affected = 109)
+======================================================
+('Beer Delivery Operations::0', 'M::0')(Records affected = 63)
+======================================================
+('ETSD Telephone Services::0', 'M::0')(Records affected = 6)
+======================================================
+('Station 16::0', 'M::0')(Records affected = 36)
+======================================================
+('ETSD Radio Communications Services::0', 'M::0')(Records affected = 7)
+======================================================
+('Clarksburg Village::0', 'M::0')(Records affected = 7)
+======================================================
+('Flower Avenue::0', 'M::0')(Records affected = 8)
+======================================================
+('Adult Protective Services - Nurse Assessment::0', 'F::0')(Records affected = 18)
+======================================================
+('Highway Administration::0', 'M::0')(Records affected = 20)
+======================================================
+('Permanent Supportive Housing::0', 'F::0')(Records affected = 10)
+======================================================
+('Transportation Technical Center::0', 'M::0')(Records affected = 16)
+======================================================
+('Station 12::0', 'M::0')(Records affected = 33)
+======================================================
+('Damascus Library::0', 'F::0')(Records affected = 13)
+======================================================
+('Station 9::0', 'M::0')(Records affected = 12)
+======================================================
+('ISB Major Crimes Division Victim Witness Assistance Section::0', 'F::0')(Records affected = 6)
+======================================================
+('Station 2::0', 'M::0')(Records affected = 21)
+======================================================
+('Early Childhood Services::0', 'F::0')(Records affected = 12)
+======================================================
+('Station 31::0', 'M::0')(Records affected = 36)
+======================================================
+('Station 25::0', 'M::0')(Records affected = 45)
+======================================================
+('Liquor and Wine Delivery Operations::0', 'M::0')(Records affected = 53)
+======================================================
+('Station 15::0', 'M::0')(Records affected = 29)
+======================================================
+('MSB Information Mgmt and Tech Division Warrant Control Section::0', 'F::0')(Records affected = 6)
+======================================================
+('PSB 4th District Special Assignment Team::0', 'M::0')(Records affected = 8)
+======================================================
+('Planning, Accountability and Customer Service::0', 'F::0')(Records affected = 7)
+======================================================
+('Station 40::0', 'M::0')(Records affected = 13)
+======================================================
+('Station 18::0', 'M::0')(Records affected = 27)
+======================================================
+('Liquor and Wine Warehouse Operations::0', 'M::0')(Records affected = 17)
+======================================================
+('PSB 4th District Community Action Team::0', 'M::0')(Records affected = 6)
+======================================================
+('Fleet Automotive Heavy Equipment::0', 'M::0')(Records affected = 36)
+======================================================
+('Station 6::0', 'M::0')(Records affected = 27)
+======================================================
+('Aging and Disability Resource Unit::0', 'F::0')(Records affected = 9)
+======================================================
+('FSB Special Operations Division Tactical Operations Section::0', 'M::0')(Records affected = 15)
+======================================================
+('Station 19::0', 'M::0')(Records affected = 27)
+======================================================
+('Third Battalion - Administration::0', 'M::0')(Records affected = 22)
+======================================================
+('Station 23::0', 'M::0')(Records affected = 44)
+======================================================
+('Station 28::0', 'M::0')(Records affected = 24)
+======================================================
+('Area Agency on Aging Administration::0', 'F::0')(Records affected = 8)
+======================================================
+('Station 30::0', 'M::0')(Records affected = 21)
+======================================================
+('Service Coordination and Individual Support Services::0', 'F::0')(Records affected = 7)
+======================================================
+('Infants and Toddlers::0', 'F::0')(Records affected = 12)
+======================================================
+('Potomac Library::0', 'F::0')(Records affected = 12)
+======================================================
+('Victim Assistance and Sexual Assault Program::0', 'F::0')(Records affected = 15)
+======================================================
+('Team 2 Residential Inspection::0', 'M::0')(Records affected = 16)
+======================================================
+('DO Fiscal Services::0', 'F::0')(Records affected = 7)
+======================================================
+('Facilities Major Programs::0', 'M::0')(Records affected = 6)
+======================================================
+('ERP Technical Support::0', 'M::0')(Records affected = 6)
+======================================================
+('Operations and Administration -::0', 'F::0')(Records affected = 6)
+======================================================
+('Head Start/Pre-K (Health)::0', 'F::0')(Records affected = 8)
+======================================================
+('Human Resources::0', 'F::0')(Records affected = 12)
+======================================================
+('Sign and Marking Shop::0', 'M::0')(Records affected = 11)
+======================================================
+('Rental Assistance::0', 'F::0')(Records affected = 6)
+======================================================
+('Property Management::0', 'M::0')(Records affected = 7)
+======================================================
+('Station 20::0', 'M::0')(Records affected = 12)
+======================================================
+('Northern Region::0', 'F::0')(Records affected = 8)
+======================================================
+('Accounts Receivable::0', 'F::0')(Records affected = 6)
+======================================================
+('Station 24::0', 'M::0')(Records affected = 36)
+======================================================
+('Employee::0', 'F::0')(Records affected = 9)
+======================================================
+('Child Care Subsidies - Admin::0', 'F::0')(Records affected = 11)
+======================================================
+('Station 34::0', 'M::0')(Records affected = 33)
+======================================================
+('Educational Support::0', 'F::0')(Records affected = 7)
+======================================================
+('Zoning and::0', 'F::0')(Records affected = 7)
+======================================================
+('Financial Administration::0', 'F::0')(Records affected = 7)
+======================================================
+('Parking Management Engineering and Maintenance::0', 'M::0')(Records affected = 19)
+======================================================
+('Davis Library::0', 'F::0')(Records affected = 16)
+======================================================
+('Rescue 2::0', 'M::0')(Records affected = 10)
+======================================================
+('Budget Team::0', 'F::0')(Records affected = 8)
+======================================================
+('Ombudsman Services::0', 'F::0')(Records affected = 7)
+======================================================
+('Care Coordination::0', 'F::0')(Records affected = 12)
+======================================================
+('ESOD Data Center Operations::0', 'M::0')(Records affected = 7)
+======================================================
+('PSB 3rd District Special Assignment Team::0', 'M::0')(Records affected = 8)
+======================================================
+('Traffic Engineering Studies Section::0', 'M::0')(Records affected = 15)
+======================================================
+('Aspen Hill Library::0', 'F::0')(Records affected = 14)
+======================================================
+('Field Recruits::0', 'M::0')(Records affected = 36)
+======================================================
+('ISB Criminal Investigations Division 5th District Investigative Section::0', 'M::0')(Records affected = 7)
+======================================================
+('Housing Landlord and Tenant Mediation::0', 'F::0')(Records affected = 7)
+======================================================
+('Southern Region::0', 'F::0')(Records affected = 6)
+======================================================
+('Station 21::0', 'M::0')(Records affected = 24)
+======================================================
+('Abused Persons Program::0', 'F::0')(Records affected = 11)
+======================================================
+('PSB 4th District Traffic Squad::0', 'M::0')(Records affected = 8)
+======================================================
+('MSB Personnel Division Background Section::0', 'M::0')(Records affected = 10)
+======================================================
+('Station 10::0', 'M::0')(Records affected = 27)
+======================================================
+('DS Intake Classification and Re-Entry Services::0', 'F::0')(Records affected = 7)
+======================================================
+('Fire and Explosive Investigations::0', 'M::0')(Records affected = 13)
+======================================================
+('First Battalion - Administration::0', 'M::0')(Records affected = 16)
+======================================================
+('PSB 1st District Traffic Squad::0', 'M::0')(Records affected = 9)
+======================================================
+('PSB 3rd District Community Action Team::0', 'M::0')(Records affected = 6)
+======================================================
+('FSB Traffic Division Collision Reconstruction::0', 'M::0')(Records affected = 10)
+======================================================
+('Montgomery Cares::0', 'F::0')(Records affected = 7)
+======================================================
+('Pike::0', 'M::0')(Records affected = 9)
+======================================================
+('PSB 5th District Traffic Squad::0', 'M::0')(Records affected = 6)
+======================================================
+('PSB 2nd District Special Assignment Team::0', 'M::0')(Records affected = 7)
+======================================================
+('Fifth Battalion - Administration::0', 'M::0')(Records affected = 17)
+======================================================
+('Access to Behavioral Health Services::0', 'F::0')(Records affected = 13)
+======================================================
+('Senior::0', 'F::0')(Records affected = 7)
+======================================================
+('Land Development Sediment Stormwater Plan Review::0', 'M::0')(Records affected = 9)
+======================================================
+('Station 11::0', 'M::0')(Records affected = 21)
+======================================================
+('Community Action Agency::0', 'F::0')(Records affected = 11)
+======================================================
+('Technology Management::0', 'M::0')(Records affected = 8)
+======================================================
+('Registration Services::0', 'F::0')(Records affected = 6)
+======================================================
+('PSB 3rd District Traffic Squad::0', 'M::0')(Records affected = 8)
+======================================================
+('Land Development Right-of-Way Inspection::0', 'M::0')(Records affected = 9)
+======================================================
+('ETSD Network Services::0', 'M::0')(Records affected = 9)
+======================================================
+('Collection Development::0', 'F::0')(Records affected = 14)
+======================================================
+('PSB 2nd District Traffic Squad::0', 'M::0')(Records affected = 8)
+======================================================
+('Beer Warehouse Operations::0', 'M::0')(Records affected = 12)
+======================================================
+('Station 5::0', 'M::0')(Records affected = 7)
+======================================================
+('Station 26::0', 'M::0')(Records affected = 12)
+======================================================
+('PSB 1st District Special Assignment Team::0', 'M::0')(Records affected = 7)
+======================================================
+('Nursing Home Inspections::0', 'F::0')(Records affected = 6)
+======================================================
+('Safety::0', 'M::0')(Records affected = 8)
+======================================================
+('Human Resources and Appeals::0', 'F::0')(Records affected = 8)
+======================================================
+('Transit Central Communication::0', 'M::0')(Records affected = 12)
+======================================================
+('Fire Protection::0', 'M::0')(Records affected = 12)
+======================================================
+('Customer Information::0', 'F::0')(Records affected = 6)
+======================================================
+('PSB 6th District Traffic Squad::0', 'M::0')(Records affected = 6)
+======================================================
+('Special Projects - Linkages to Learning::0', 'F::0')(Records affected = 6)
+======================================================
+('Adult Foster Care - Project Home::0', 'F::0')(Records affected = 8)
+======================================================
+('Support Planning::0', 'F::0')(Records affected = 7)
+======================================================
+('Marilyn J Praisner Library::0', 'F::0')(Records affected = 17)
+======================================================
+('Health and Human Services::0', 'F::0')(Records affected = 10)
+======================================================
+('COO Office - Management Services::0', 'F::0')(Records affected = 6)
+======================================================
+('PSB 5th District Special Assignment Team::0', 'M::0')(Records affected = 8)
+======================================================
+('Poolesville Library::0', 'F::0')(Records affected = 6)
+======================================================
+('Chief, Public Health::0', 'F::0')(Records affected = 6)
+======================================================
+("Women's Health Services::0", 'F::0')(Records affected = 7)
+======================================================
+('Burtonsville::0', 'M::0')(Records affected = 6)
+======================================================

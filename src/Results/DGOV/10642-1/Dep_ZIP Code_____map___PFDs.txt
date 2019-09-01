@@ -1,0 +1,3 @@
+Coverage =  1.0)
+('map:(\\A*ZIP Code\\A*)', 'ZIP Code')(Records affected = 920)
+======================================================

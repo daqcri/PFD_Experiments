@@ -1,0 +1,155 @@
+Coverage =  0.6602028639618138)
+('Estimate; Male: - 20 to 24 years: (White alone, not Hispanic or Latino)::0', 'HD01_VD10::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 20 to 24 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'HD01_VD11::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 25 to 54 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'HD01_VD18::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 55 to 64 years: (White alone, not Hispanic or Latino)::0', 'HD01_VD24::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 25 to 54 years: (White alone, not Hispanic or Latino)::0', 'HD01_VD17::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 16 to 19 years: (White alone, not Hispanic or Latino)::0', 'HD01_VD03::0')(Records affected = 51)
+======================================================
+('Workforce participation rate (Female, White alone, not Hispanic or Latino)::0', 'Calculation: (::0')(Records affected = 84)
+======================================================
+('Workforce participation rate (Male, White alone, not Hispanic or Latino)::0', 'Calculation: (HD01_VD04+HD01_VD11+HD01_VD18+HD01_VD25)/(HD01_VD03+HD01_VD10+HD01_VD17+HD01_VD24)::0')(Records affected = 84)
+======================================================
+('Estimate; Male: - 55 to 64 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'HD01_VD25::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 16 to 19 years: - In labor force: (White alone, not Hispanic or Latino)::0', 'HD01_VD04::0')(Records affected = 51)
+======================================================
+('Estimate; Male: - 30 to 34 years: - In labor force: (Al::0', 'HD01_VD32::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 35 to 44 years: (All)::0', 'HD01_VD38::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 25 to 54 years: - In labor force: (Bl::0', 'HD01_VD18::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 16 to 19 years: (All)::0', 'HD01_VD03::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 20 to 24 years: (Black or African Ame::0', 'HD01_VD10::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 20 to 24 years: - In labor force: (Bl::0', 'HD01_VD11::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 55 to 64 years: (Black or African Ame::0', 'HD01_VD24::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 25 to 54 years: (Black or African Ame::0', 'HD01_VD17::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 16 to 19 years: (Black or African Ame::0', 'HD01_VD03::0')(Records affected = 55)
+======================================================
+('Workforce participation rate (Female, Black or African American Alone)::0', 'Calculation: (::0')(Records affected = 88)
+======================================================
+('Workforce participation rate (Male, Black or African American Alone)::0', 'Calculation: (HD01_VD04+HD01_VD11+HD01_VD18+HD01_VD25)/(HD01_VD03+HD01_VD10+HD01_VD17+HD01_VD24)::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 55 to 64 years: - In labor force: (Bl::0', 'HD01_VD25::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 16 to 19 years: - In labor force: (Bl::0', 'HD01_VD04::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 55 to 59 years: (All)::0', 'HD01_VD52::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 16 to 19 years: - In labor force: (Al::0', 'HD01_VD04::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 20 and 21 years: - In labor force: (A::0', 'HD01_VD11::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 20 and 21 years: (All)::0', 'HD01_VD10::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 25 to 29 years: (All)::0', 'HD01_VD24::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 25 to 29 years: - In labor force: (Al::0', 'HD01_VD25::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 22 to 24 years: (All)::0', 'HD01_VD17::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 55 to 59 years: - In labor force: (Al::0', 'HD01_VD53::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 62 to 64 years: - In labor force: (Al::0', 'HD01_VD67::0')(Records affected = 55)
+======================================================
+('Workforce participation rate (All)::0', 'Calculation: (HD01_VD04+HD01_VD11+HD01_VD18+HD01_VD25+HD01_VD32+HD01_VD39+HD01_VD46+HD01_VD53+HD01_VD60+HD01_VD67+::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 62 to 64 years: (All)::0', 'HD01_VD66::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 35 to 44 years: - In labor force: (Al::0', 'HD01_VD39::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 45 to 54 years: (All)::0', 'HD01_VD45::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 45 to 54 years: - In labor force: (Al::0', 'HD01_VD46::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 60 and 61 years: (All)::0', 'HD01_VD59::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 30 to 34 years: (All)::0', 'HD01_VD31::0')(Records affected = 88)
+======================================================
+('Estimate; Male: - 22 to 24 years: - In labor force: (Al::0', 'HD01_VD18::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 60 and 61 years: - In labor force: (A::0', 'HD01_VD60::0')(Records affected = 55)
+======================================================
+('Estimate; Male: - 45 to 54 years: - In labor force: (All)::0', 'HD01_VD46::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 22 to 24 years: - In labor force: (All)::0', 'HD01_VD18::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 25 to 29 years: - In labor force: (All)::0', 'HD01_VD25::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 60 and 61 years: - In labor force: (All)::0', 'HD01_VD146::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 62 to 64 years: - In labor force: (All)::0', 'HD01_VD153::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 35 to 44 years: - In labor force: (All)::0', 'HD01_VD39::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 25 to 29 years: - In labor force: (All)::0', 'HD01_VD111::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 16 to 19 years: - In labor force: (All)::0', 'HD01_VD90::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 30 to 34 years: - In labor force: (All)::0', 'HD01_VD32::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 22 to 24 years: - In labor force: (All)::0', 'HD01_VD104::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 62 to 64 years: - In labor force: (All)::0', 'HD01_VD67::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 60 and 61 years: - In labor force: (All)::0', 'HD01_VD60::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 20 and 21 years: - In labor force: (All)::0', 'HD01_VD11::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 45 to 54 years: - In labor force: (All)::0', 'HD01_VD132::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 30 to 34 years: - In labor force: (All)::0', 'HD01_VD118::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 20 and 21 years: - In labor force: (All)::0', 'HD01_VD97::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 55 to 59 years: - In labor force: (All)::0', 'HD01_VD53::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 16 to 19 years: - In labor force: (All)::0', 'HD01_VD04::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 55 to 59 years: - In labor force: (All)::0', 'HD01_VD139::0')(Records affected = 33)
+======================================================
+('Estimate; Female: - 35 to 44 years: - In labor force: (All)::0', 'HD01_VD125::0')(Records affected = 33)
+======================================================
+('Estimate; Male: - 55 to 64 years: - In labor force: (Black or African American Alone)::0', 'HD01_VD25::0')(Records affected = 66)
+======================================================
+('Estimate; Female: - 55 to 64 years: - In labor force: (Black or African American Alone)::0', 'HD01_VD64::0')(Records affected = 66)
+======================================================
+('Estimate; Male: - 20 to 24 years: - In labor force: (Black or African American Alone)::0', 'HD01_VD11::0')(Records affected = 66)
+======================================================
+('Estimate; Female: - 16 to 19 years: - In labor force: (Black or African American Alone)::0', 'HD01_VD43::0')(Records affected = 66)
+======================================================
+('Estimate; Female: - 25 to 54 years: (Black or African American Alone)::0', 'HD01_VD56::0')(Records affected = 66)
+======================================================
+('Estimate; Male: - 16 to 19 years: (Black or African American Alone)::0', 'HD01_VD03::0')(Records affected = 66)
+======================================================
+('Estimate; Male: - 55 to 64 years: (Black or African American Alone)::0', 'HD01_VD24::0')(Records affected = 66)
+======================================================
+('Estimate; Female: - 16 to 19 years: (Black or African American Alone)::0', 'HD01_VD42::0')(Records affected = 66)
+======================================================
+('Estimate; Female: - 55 to 64 years: (Black or African American Alone)::0', 'HD01_VD63::0')(Records affected = 66)
+======================================================
+('Estimate; Female: - 25 to 54 years: - In labor force: (Black or African American Alone)::0', 'HD01_VD57::0')(Records affected = 66)
+======================================================
+('Estimate; Female: - 20 to 24 years: (Black or African American Alone)::0', 'HD01_VD49::0')(Records affected = 66)
+======================================================
+('Estimate; Female: - 20 to 24 years: - In labor force: (Black or African American Alone)::0', 'HD01_VD50::0')(Records affected = 66)
+======================================================
+('Estimate; Male: - 20 to 24 years: (Black or African American Alone)::0', 'HD01_VD10::0')(Records affected = 66)
+======================================================
+('Estimate; Male: - 25 to 54 years: - In labor force: (Black or African American Alone)::0', 'HD01_VD18::0')(Records affected = 66)
+======================================================
+('Estimate; Male: - 16 to 19 years: - In labor force: (Black or African American Alone)::0', 'HD01_VD04::0')(Records affected = 66)
+======================================================
+('Estimate; Male: - 25 to 54 years: (Black or African American Alone)::0', 'HD01_VD17::0')(Records affected = 66)
+======================================================

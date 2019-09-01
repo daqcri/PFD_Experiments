@@ -1,0 +1,121 @@
+Coverage =  0.1171299857158554)
+('Police Aide::0', 'F::0')(Records affected = 23)
+======================================================
+('Electrician::0', 'M::0')(Records affected = 9)
+======================================================
+('Mechanic Technician II::0', 'M::0')(Records affected = 111)
+======================================================
+('Warehouse Worker::0', 'M::0')(Records affected = 37)
+======================================================
+('Telecommunications::0', 'M::0')(Records affected = 7)
+======================================================
+('Alcohol/Tobacco Enforcement Specialist II::0', 'M::0')(Records affected = 6)
+======================================================
+('Highway Inspector II::0', 'M::0')(Records affected = 10)
+======================================================
+('Correctional Health Nurse II::0', 'F::0')(Records affected = 18)
+======================================================
+('Senior Executive Administrative Aide::0', 'F::0')(Records affected = 20)
+======================================================
+('School Health Room Technician I::0', 'F::0')(Records affected = 202)
+======================================================
+('Construction Representative III::0', 'M::0')(Records affected = 22)
+======================================================
+('Driver/Clerk::0', 'M::0')(Records affected = 6)
+======================================================
+('Recreation Assistant::0', 'F::0')(Records affected = 19)
+======================================================
+('Income Assistance Program Specialist III::0', 'F::0')(Records affected = 23)
+======================================================
+('Truck Driver Helper/Warehouse Worker::0', 'M::0')(Records affected = 28)
+======================================================
+('Library Associate II::0', 'F::0')(Records affected = 24)
+======================================================
+('Warehouse Equipment Operator::0', 'M::0')(Records affected = 15)
+======================================================
+('Transportation Systems Technician III::0', 'M::0')(Records affected = 10)
+======================================================
+('Police Captain::0', 'M::0')(Records affected = 19)
+======================================================
+('Public Service Worker II::0', 'M::0')(Records affected = 24)
+======================================================
+('Equipment Operator II::0', 'M::0')(Records affected = 22)
+======================================================
+('Supply Technician II::0', 'M::0')(Records affected = 14)
+======================================================
+('Dental::0', 'F::0')(Records affected = 7)
+======================================================
+('Legislative Analyst::0', 'F::0')(Records affected = 8)
+======================================================
+('Emergency Vehicle Maintenance Crew Chief::0', 'M::0')(Records affected = 6)
+======================================================
+('Emergency Vehicle Mechanic Technician II::0', 'M::0')(Records affected = 7)
+======================================================
+('Work Force Leader IV::0', 'M::0')(Records affected = 9)
+======================================================
+('Resident Supervisor III::0', 'M::0')(Records affected = 6)
+======================================================
+('School Health Room Technician II::0', 'F::0')(Records affected = 11)
+======================================================
+('Fire/Rescue Assistant Chief::0', 'M::0')(Records affected = 12)
+======================================================
+('Public Service Craftsworker::0', 'M::0')(Records affected = 41)
+======================================================
+('Technology Expert::0', 'M::0')(Records affected = 6)
+======================================================
+('Truck Driver/Warehouse Worker::0', 'M::0')(Records affected = 42)
+======================================================
+('Work Force Leader II::0', 'M::0')(Records affected = 27)
+======================================================
+('Plumber::0', 'M::0')(Records affected = 6)
+======================================================
+('Council Member::0', 'M::0')(Records affected = 8)
+======================================================
+('Public Service Worker III::0', 'M::0')(Records affected = 6)
+======================================================
+('Background Screening Specialist::0', 'M::0')(Records affected = 9)
+======================================================
+('Child Welfare Caseworker::0', 'F::0')(Records affected = 6)
+======================================================
+('Nurse Manager::0', 'F::0')(Records affected = 13)
+======================================================
+('Program Aide::0', 'F::0')(Records affected = 8)
+======================================================
+('Supply Technician III::0', 'M::0')(Records affected = 18)
+======================================================
+('Legislative Analyst III::0', 'F::0')(Records affected = 7)
+======================================================
+('Paralegal Specialist::0', 'F::0')(Records affected = 7)
+======================================================
+('Engineer Technician II::0', 'M::0')(Records affected = 7)
+======================================================
+('Maintenance Renovation and Inspection Specialist::0', 'M::0')(Records affected = 9)
+======================================================
+('Senior Supply Technician::0', 'M::0')(Records affected = 11)
+======================================================
+('Security Officer III (Sergeant)::0', 'M::0')(Records affected = 6)
+======================================================
+('HVAC Mechanic I::0', 'M::0')(Records affected = 12)
+======================================================
+('Transit Communications Supervisor::0', 'M::0')(Records affected = 10)
+======================================================
+('Legislative Services Coordinator::0', 'F::0')(Records affected = 7)
+======================================================
+('Equipment Operator III::0', 'M::0')(Records affected = 10)
+======================================================
+('Visual Information Specialist::0', 'M::0')(Records affected = 6)
+======================================================
+('Equipment Maintenance Crew Chief::0', 'M::0')(Records affected = 20)
+======================================================
+('Community Services Aide II::0', 'F::0')(Records affected = 7)
+======================================================
+('Recreation Assistant VI::0', 'F::0')(Records affected = 6)
+======================================================
+('Printing Technician III::0', 'M::0')(Records affected = 6)
+======================================================
+('Motor Pool Attendant::0', 'M::0')(Records affected = 9)
+======================================================
+('Water Quality Specialist II::0', 'M::0')(Records affected = 6)
+======================================================
+('Legal Secretary II::0', 'F::0')(Records affected = 8)
+======================================================

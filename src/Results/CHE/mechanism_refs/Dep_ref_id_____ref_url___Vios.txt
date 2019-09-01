@@ -1,0 +1,2 @@
+label/2013/204410s000lbl.pdf  |=  https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/204410s000lbl.pdf
+setid=3b94f67c-d675-4e16-846a-3ca39b0405e0  |=  https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3b94f67c-d675-4e16-846a-3ca39b0405e0

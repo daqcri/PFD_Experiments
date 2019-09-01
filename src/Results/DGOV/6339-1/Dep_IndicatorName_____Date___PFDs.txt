@@ -1,0 +1,7 @@
+Coverage =  1.0)
+('Murder and nonnegligent manslaughter::0', '12:00:00 AM::6')(Records affected = 102)
+======================================================
+('Property crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 102)
+======================================================
+('Violent crime rate (per 100,000 population)::0', '12:00:00 AM::6')(Records affected = 102)
+======================================================

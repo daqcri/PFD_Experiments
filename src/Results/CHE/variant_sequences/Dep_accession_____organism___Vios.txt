@@ -1,0 +1,4 @@
+Q06486  |=  Rattus norvegicus
+P35235  |=  Mus musculus
+Q00960  |=  Rattus norvegicus
+P49881  |=  Bombyx mori

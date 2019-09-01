@@ -1,0 +1,303 @@
+Coverage =  0.7573892978793539)
+('Master Police Officer::0', 'Fulltime-Regular::0')(Records affected = 71)
+======================================================
+('Social Worker IV::0', 'Fulltime-Regular::0')(Records affected = 31)
+======================================================
+('Resident Supervisor II::0', 'Fulltime-Regular::0')(Records affected = 22)
+======================================================
+('Planning Specialist III::0', 'Fulltime-Regular::0')(Records affected = 24)
+======================================================
+('Police Officer III::0', 'Fulltime-Regular::0')(Records affected = 906)
+======================================================
+('Administrative Specialist II::0', 'Fulltime-Regular::0')(Records affected = 65)
+======================================================
+('Police Aide::0', 'Fulltime-Regular::0')(Records affected = 23)
+======================================================
+('Electrician::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Bus Operator::0', 'Fulltime-Regular::0')(Records affected = 623)
+======================================================
+('Traffic::0', 'Fulltime-Regular::0')(Records affected = 20)
+======================================================
+('Library Desk Assistant::0', 'Parttime-Regular::0')(Records affected = 37)
+======================================================
+('Crossing Guard::0', 'Parttime-Regular::0')(Records affected = 161)
+======================================================
+('Mechanic Technician II::0', 'Fulltime-Regular::0')(Records affected = 111)
+======================================================
+('Manager::0', 'Fulltime-Regular::0')(Records affected = 379)
+======================================================
+('Information Technology Technician III::0', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+('Information Technology Specialist III::0', 'Fulltime-Regular::0')(Records affected = 43)
+======================================================
+('Income Assistance Program Supervisor::0', 'Fulltime-Regular::0')(Records affected = 17)
+======================================================
+('Liquor Store Clerk I::0', 'Parttime-Regular::0')(Records affected = 125)
+======================================================
+('Director Office of::0', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+('Telecommunications::0', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+('Alcohol/Tobacco Enforcement Specialist II::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Administrative Specialist III::0', 'Fulltime-Regular::0')(Records affected = 47)
+======================================================
+('Firefighter/Rescuer III::0', 'Fulltime-Regular::0')(Records affected = 651)
+======================================================
+('Deputy Sheriff III::0', 'Fulltime-Regular::0')(Records affected = 86)
+======================================================
+('Public Safety Communications Supervisor::0', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+('Manager III::0', 'Fulltime-Regular::0')(Records affected = 236)
+======================================================
+('Correctional Officer III (Corporal)::0', 'Fulltime-Regular::0')(Records affected = 246)
+======================================================
+('Income Assistance Program Specialist II::0', 'Fulltime-Regular::0')(Records affected = 155)
+======================================================
+('Highway Inspector II::0', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+('Equipment Operator I::0', 'Fulltime-Regular::0')(Records affected = 107)
+======================================================
+('Senior Permitting Services Specialist::0', 'Fulltime-Regular::0')(Records affected = 58)
+======================================================
+('Library Aide::0', 'Parttime-Regular::0')(Records affected = 28)
+======================================================
+('Accountant/Auditor III::0', 'Fulltime-Regular::0')(Records affected = 37)
+======================================================
+('Correctional Health Nurse II::0', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+('Senior Executive Administrative Aide::0', 'Fulltime-Regular::0')(Records affected = 20)
+======================================================
+('Director Department of::0', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+('School Health Room Technician I::0', 'Parttime-Regular::0')(Records affected = 202)
+======================================================
+('Construction Representative III::0', 'Fulltime-Regular::0')(Records affected = 22)
+======================================================
+('Driver/Clerk::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Housing Code Inspector III::0', 'Fulltime-Regular::0')(Records affected = 22)
+======================================================
+('Library Assistant Supervisor::0', 'Fulltime-Regular::0')(Records affected = 19)
+======================================================
+('Liquor Store Clerk II::0', 'Fulltime-Regular::0')(Records affected = 39)
+======================================================
+('Recreation Assistant::0', 'Parttime-Regular::0')(Records affected = 19)
+======================================================
+('Income Assistance Program Specialist III::0', 'Fulltime-Regular::0')(Records affected = 23)
+======================================================
+('Fire/Rescue Captain::0', 'Fulltime-Regular::0')(Records affected = 136)
+======================================================
+('Deputy Sheriff Sergeant::0', 'Fulltime-Regular::0')(Records affected = 29)
+======================================================
+('Senior Architect::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Truck Driver Helper/Warehouse Worker::0', 'Fulltime-Regular::0')(Records affected = 28)
+======================================================
+('Correctional Specialist::0', 'Fulltime-Regular::0')(Records affected = 45)
+======================================================
+('Environmental Health Specialist III::0', 'Fulltime-Regular::0')(Records affected = 23)
+======================================================
+('Supervisory Therapist::0', 'Fulltime-Regular::0')(Records affected = 17)
+======================================================
+('Master Firefighter/Rescuer::0', 'Fulltime-Regular::0')(Records affected = 216)
+======================================================
+('Permitting and Code Enforcement Inspector III::0', 'Fulltime-Regular::0')(Records affected = 82)
+======================================================
+('Fire/Rescue Lieutenant::0', 'Fulltime-Regular::0')(Records affected = 119)
+======================================================
+('Warehouse Equipment Operator::0', 'Fulltime-Regular::0')(Records affected = 15)
+======================================================
+('Transportation Systems Technician III::0', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+('Traffic Enforcement Field Service Technician II::0', 'Fulltime-Regular::0')(Records affected = 14)
+======================================================
+('Senior Planning Specialist::0', 'Fulltime-Regular::0')(Records affected = 26)
+======================================================
+('Public Safety Communications Specialist III::0', 'Fulltime-Regular::0')(Records affected = 116)
+======================================================
+('Investigator III::0', 'Fulltime-Regular::0')(Records affected = 23)
+======================================================
+('Recreation Supervisor::0', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+('Real Estate Specialist III::0', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+('Liquor Store Assistant Manager::0', 'Fulltime-Regular::0')(Records affected = 23)
+======================================================
+('Security Officer::0', 'Fulltime-Regular::0')(Records affected = 37)
+======================================================
+('Police Captain::0', 'Fulltime-Regular::0')(Records affected = 19)
+======================================================
+('Public Service Worker II::0', 'Fulltime-Regular::0')(Records affected = 24)
+======================================================
+('Building Services Worker II::0', 'Fulltime-Regular::0')(Records affected = 21)
+======================================================
+('Equipment Operator II::0', 'Fulltime-Regular::0')(Records affected = 22)
+======================================================
+('Correctional Supervisor (Sergeant)::0', 'Fulltime-Regular::0')(Records affected = 44)
+======================================================
+('Supply Technician II::0', 'Fulltime-Regular::0')(Records affected = 14)
+======================================================
+('Transit Operations Supervisor::0', 'Fulltime-Regular::0')(Records affected = 19)
+======================================================
+('Management and Budget Specialist III::0', 'Fulltime-Regular::0')(Records affected = 29)
+======================================================
+('Dental::0', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+('Legislative Analyst::0', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+('Senior Management and Budget Specialist::0', 'Fulltime-Regular::0')(Records affected = 28)
+======================================================
+('Recreation Specialist::0', 'Fulltime-Regular::0')(Records affected = 60)
+======================================================
+('Permit Technician III::0', 'Fulltime-Regular::0')(Records affected = 31)
+======================================================
+('Liquor Store Manager::0', 'Fulltime-Regular::0')(Records affected = 25)
+======================================================
+('Correctional Dietary Officer II::0', 'Fulltime-Regular::0')(Records affected = 15)
+======================================================
+('Emergency Vehicle Maintenance Crew Chief::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Emergency Vehicle Mechanic Technician II::0', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+('Police Lieutenant::0', 'Fulltime-Regular::0')(Records affected = 32)
+======================================================
+('Work Force Leader IV::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Alcohol Beverage Purchasing Specialist::0', 'Fulltime-Regular::0')(Records affected = 17)
+======================================================
+('Behavioral Health Associate Counselor::0', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+('Resident Supervisor III::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Transit Coordinator::0', 'Fulltime-Regular::0')(Records affected = 35)
+======================================================
+('School Health Room Technician II::0', 'Parttime-Regular::0')(Records affected = 11)
+======================================================
+('Police Sergeant::0', 'Fulltime-Regular::0')(Records affected = 135)
+======================================================
+('Fire/Rescue Assistant Chief::0', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+('Public Service Craftsworker::0', 'Fulltime-Regular::0')(Records affected = 41)
+======================================================
+('Public Safety Telephone Reporting Aide::0', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+('Senior Engineer::0', 'Fulltime-Regular::0')(Records affected = 22)
+======================================================
+('Technology Expert::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Truck Driver/Warehouse Worker::0', 'Fulltime-Regular::0')(Records affected = 42)
+======================================================
+('Fire/Rescue Battalion Chief::0', 'Fulltime-Regular::0')(Records affected = 25)
+======================================================
+('Refuse Disposal Cashier::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Property Manager II::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Customer Service Representative II::0', 'Fulltime-Regular::0')(Records affected = 19)
+======================================================
+('Work Force Leader II::0', 'Fulltime-Regular::0')(Records affected = 27)
+======================================================
+('Senior Financial Specialist::0', 'Fulltime-Regular::0')(Records affected = 25)
+======================================================
+('Plumber::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Correctional Specialist III::0', 'Fulltime-Regular::0')(Records affected = 22)
+======================================================
+('Safety and Training Instructor::0', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+('Urban District Public Service Aide::0', 'Fulltime-Regular::0')(Records affected = 16)
+======================================================
+('Police Services Assistant::0', 'Fulltime-Regular::0')(Records affected = 33)
+======================================================
+('Correctional Shift Commander (Lieutenant)::0', 'Fulltime-Regular::0')(Records affected = 19)
+======================================================
+('Council Member::0', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+('Public Service Worker III::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Mail Clerk::0', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+('Public Safety Telephone Reporting Aide I::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Engineer III::0', 'Fulltime-Regular::0')(Records affected = 24)
+======================================================
+('Library Assistant II::0', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+('Animal Care Attendant::0', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+('Senior Librarian::0', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+('Deputy Sheriff Lieutenant::0', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+('Background Screening Specialist::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Nurse Manager::0', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+('Deputy Sheriff Candidate::0', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+('Correctional Records Technician::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Program Aide::0', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+('Forensics Specialist I::0', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+('Supply Technician III::0', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+('Procurement Specialist IV::0', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+('Legislative Analyst III::0', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+('Paralegal Specialist::0', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+('Engineer Technician II::0', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+('Crime Analyst::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Security Officer I::0', 'Fulltime-Regular::0')(Records affected = 26)
+======================================================
+('Maintenance Renovation and Inspection Specialist::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Senior Supply Technician::0', 'Fulltime-Regular::0')(Records affected = 11)
+======================================================
+('Forensic Scientist::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Security Officer III (Sergeant)::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Depot Supply Coordinator::0', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
+('Capital Projects Manager::0', 'Fulltime-Regular::0')(Records affected = 22)
+======================================================
+('HVAC Mechanic I::0', 'Fulltime-Regular::0')(Records affected = 12)
+======================================================
+('Transit Communications Supervisor::0', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+('Legislative Services Coordinator::0', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+('Equipment Operator III::0', 'Fulltime-Regular::0')(Records affected = 10)
+======================================================
+('Visual Information Specialist::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Equipment Maintenance Crew Chief::0', 'Fulltime-Regular::0')(Records affected = 20)
+======================================================
+('Senior Business Development Specialist::0', 'Fulltime-Regular::0')(Records affected = 13)
+======================================================
+('Community Services Aide II::0', 'Fulltime-Regular::0')(Records affected = 7)
+======================================================
+('Confidential Aide::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Recreation Assistant VI::0', 'Parttime-Regular::0')(Records affected = 6)
+======================================================
+('Police Officer Candidate::0', 'Fulltime-Regular::0')(Records affected = 18)
+======================================================
+('Printing Technician III::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Motor Pool Attendant::0', 'Fulltime-Regular::0')(Records affected = 9)
+======================================================
+('Water Quality Specialist II::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Police District Station Assistant::0', 'Fulltime-Regular::0')(Records affected = 6)
+======================================================
+('Legal Secretary II::0', 'Fulltime-Regular::0')(Records affected = 8)
+======================================================
